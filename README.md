@@ -3771,6 +3771,18 @@ La evidencia obtenida mediante GitHub permite establecer trazabilidad entre las 
 
 Asimismo, la actividad registrada es consistente con la Leadership-and-Collaboration Matrix definida para el Sprint 2, en la que se distribuyeron responsabilidades relacionadas con la configuración y routing de la Web Application, la presentación de los procesos de registro e inicio de sesión, la gestión de sesiones, el acceso a dashboards según el tipo de empresa, la integración con el Landing Page y las actividades de Testing & QA.
 
+### 5.2.3. Sprint 3
+
+El Sprint 3 representa la transición de RentBuild desde una Web Application respaldada por una API simulada hacia una solución distribuida que incorpora un RESTful Web Service desarrollado con C#, ASP.NET Core, Entity Framework Core y MySQL.
+
+#### 5.2.3.1. Sprint Planning 3
+
+El Sprint 3 de RentBuild estuvo orientado a la consolidación funcional de la plataforma mediante el desarrollo de un RESTful Web Service propio, su integración con la Web Application implementada en Vue y la incorporación de persistencia de datos mediante MySQL. Durante la planificación, el equipo DataFlux priorizó la sustitución de la Fake API utilizada en el Sprint 2 por servicios reales desarrollados con C# y ASP.NET Core, organizados siguiendo principios de Domain-Driven Design (DDD), arquitectura por capas y Command Query Responsibility Segregation (CQRS).
+
+Asimismo, se consideraron la implementación de los principales procesos de negocio, la documentación de los endpoints mediante OpenAPI y Swagger UI, la ejecución de pruebas y la preparación de los entornos de despliegue correspondientes a la entrega AV2. La planificación y coordinación general del Sprint estuvieron lideradas por Montalvo Vásquez, Bruno Rodrigo, quien organizó el seguimiento de los avances técnicos, la integración de los componentes y las actividades necesarias para consolidar los entregables del proyecto.
+
+A continuación, se presenta la tabla resumen del Sprint Planning 3:
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
