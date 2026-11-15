@@ -3783,6 +3783,17 @@ Asimismo, se consideraron la implementación de los principales procesos de nego
 
 A continuación, se presenta la tabla resumen del Sprint Planning 3:
 
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 3, el equipo DataFlux organizó sus responsabilidades considerando los principales aspectos funcionales y técnicos necesarios para consolidar RentBuild. Estas actividades comprendieron el desarrollo del backend mediante ASP.NET Core, la integración de la Web Application desarrollada en Vue, la planificación y actualización del Sprint Backlog, las entrevistas de validación, la revisión de los artefactos arquitectónicos y de base de datos, la documentación técnica y el despliegue de la plataforma.
+
+El liderazgo general y la coordinación del Sprint estuvieron a cargo de Montalvo Vásquez, Bruno Rodrigo, quien asumió la organización de las actividades de desarrollo, integración, documentación y despliegue, así como el seguimiento de los entregables correspondientes a la AV2. Los demás integrantes participaron en la implementación de funcionalidades y asumieron responsabilidades específicas según las actividades asignadas.
+
+La distribución de responsabilidades se representa mediante una Leadership-and-Collaboration Matrix (LACX), en la cual la letra **L** identifica al integrante responsable principal de cada aspecto (Leader), mientras que la letra **C** identifica a los integrantes que participaron como colaboradores (Collaborators). Esta matriz permite visualizar la distribución de responsabilidades y mantener una coordinación efectiva durante el desarrollo del Sprint.
+
+Los aspectos considerados fueron el desarrollo de servicios RESTful, la integración de la Web Application, las entrevistas de validación, la planificación del Sprint Backlog, la documentación técnica, el diseño de base de datos y el despliegue de la solución.
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
