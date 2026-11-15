@@ -73,7 +73,7 @@ Producto<br>
 
 <br>
 
-<p><strong>Octubre, 2026</strong></p>
+<p><strong>Noviembre, 2026</strong></p>
 
 </div>
 
