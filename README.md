@@ -2374,45 +2374,33 @@ El frontend utiliza Vue 3 y JavaScript, Vue Router, Pinia y PrimeVue. La arquite
 
 ### 4.6.1. Design-Level Event Storming
 
-El Design-Level Event Storming permitió profundizar en los procesos identificados durante el Big Picture Event Storming, detallando los actores, comandos, agregados, eventos de dominio, modelos de lectura, políticas y reglas de negocio involucrados en RentBuild.
+El Design-Level Event Storming permitió profundizar en los procesos identificados durante el Big Picture Event Storming, detallando los actores, comandos, agregados, eventos de dominio, modelos de lectura, políticas y reglas de negocio involucrados en MaquiGest.
 
 Para facilitar su comprensión, el modelado se presenta mediante diagramas individuales por Bounded Context, permitiendo identificar sus responsabilidades y las interacciones entre los componentes del sistema.
 
-**Leyenda de Design-Level Event Storming**
-
-![Leyenda Design-Level Event Storming](assets/images/chapter-4/leyenda-designlevel.png)
-
 **Inventory Bounded Context**
 
-![Inventory Bounded Context](assets/images/chapter-4/inventory-bounded-context.png)
+![Inventory Bounded Context](assets/images/chapter-4/inventory.png)
 
 **Rentals Bounded Context**
 
-![Rentals Bounded Context](assets/images/chapter-4/rentals-bounded-context.png)
+![Rentals Bounded Context](assets/images/chapter-4/rentals.png)
 
 **Maintenance Bounded Context**
 
-![Maintenance Bounded Context](assets/images/chapter-4/maintenance-bounded-context.png)
+![Maintenance Bounded Context](assets/images/chapter-4/maintenance.png)
 
 **Subscription Plans Bounded Context**
 
-![Subscription Plans Bounded Context](assets/images/chapter-4/subscription-plans-bounded-context.png)
-
-**External Systems**
-
-![External Systems](assets/images/chapter-4/external-systems.png)
-
-**Generic IAM Bounded Context**
-
-![Generic IAM Bounded Context](assets/images/chapter-4/generic-iam-bounded-context.png)
+![Subscription Plans Bounded Context](assets/images/chapter-4/suscribtions.png)
 
 **IAM Bounded Context**
 
-![IAM Bounded Context](assets/images/chapter-4/iam-bounded-context.png)
+![IAM Bounded Context](assets/images/chapter-4/iam.png)
 
 **Profiles Bounded Context**
 
-![Profiles Bounded Context](assets/images/chapter-4/profile-bounded-context.png)
+![Profiles Bounded Context](assets/images/chapter-4/profile.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
@@ -4686,6 +4674,7 @@ En este anexo se registran progresivamente los videos correspondientes a las exp
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------------------|
 | **AV1** | **Cantidad:** 1 video<br>**Enlace:** [Ver video AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCBXFdo0jrXTqL0vkQUNlrlAWSe4PbJ4LTRVTYfF420B-E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mhMcM3)<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-expo-av1`<br>**Formato:** `.mp4`<br>**Duración:** 13:55 | Video de exposición grupal correspondiente al AV1 de RentBuild. Presenta el avance integral del proyecto hasta el Sprint 1, incluyendo Startup Profile, Solution Profile, segmentos objetivo, Requirements Elicitation & Analysis, Needfinding, User Stories, Product Backlog, Product Design, arquitectura de software, diseño e implementación de la Landing Page y las evidencias correspondientes al Sprint 1. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del AV1. El material permite sustentar los artefactos desarrollados, la participación de los integrantes del equipo y los principales avances alcanzados durante el Sprint 1. |
 | **TB1** | **Cantidad:** 1 video<br>**Enlace:** [Ver video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCBXFdo0jrXTqL0vkQUNlrlAWSe4PbJ4LTRVTYfF420B-E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mhMcM3)<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-expo-tb1`<br>**Formato:** `.mp4`<br>**Duración:** 13:55 | Video de exposición grupal correspondiente al TB1 de RentBuild. Presenta el avance integral del proyecto hasta el Sprint 2, incluyendo la web app. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del TB1. El material permite sustentar los artefactos desarrollados, la participación de los integrantes del equipo y los principales avances alcanzados durante el Sprint 2. |
+| **AV2** | **Cantidad:** 1 video<br>**Enlace:** [Ver video AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDqarBAJsFxQLbWf5OsX0NNAVo9RG8KeiM3mCQW2CiXzAY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=PapkXs)<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-expo-av2`<br>**Formato:** `.mp4`<br>**Duración:** 27:38 | Video de exposicion al AV2 de MaquiGest. Presenta los avances y la síntesis ejecutiva del producto, integrando las revisiones funcionales de las etapas intermedias de desarrollo. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del AV2 para sustentar el progreso y características clave de la plataforma. |
 
 ## Anexo B. Enlaces del proyecto
 
@@ -4718,5 +4707,3 @@ En este anexo se consolidan los principales recursos audiovisuales utilizados co
 | **Execution Evidence 2**  | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-execution-evidence-sprint-2`<br>**Formato:** `.mp4`   | Presenta la navegación por la primera versión implementada y desplegada de la web app de RentBuild. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 2. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDOPdOMeAhKRZ-vz-1kQtt7AX2VvaT-R5lQZFxI_11rJtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kexC0i)                                                 |
 | **Execution Evidence** | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-execution-evidence-sprint-3`<br>**Formato:** `.mp4` | Presenta la navegación por la segunda versión implementada y desplegada de la plataforma, esta vez incluyendo el backend. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 3. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCQPSedz_yQTYMZGNFGaxZzAceAU1lmkCiv5WLOBju6EDY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oHWgfw) |
 | **About the Product** | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-about-the-product-sprint-3`<br>**Formato:** `.mp4` | Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por каждый segmento objetivo. | [Ver About the Product](https://youtu.be/jMt48j5SGXI) |
-| **About the Team** | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-about-the-team-sprint-3`<br>**Formato:** `.mp4` | Video que resume el proceso de trabajo realizado, incluyendo escenas de sesiones de trabajo real del equipo. Incluye además el testimonio ante cámara de cada participante describiendo actividades realizadas, logro de outcomes y desarrollo de competencias alcanzados. | [Ver About the Team](https://youtu.be/-UoV_7GcAb8) |
-| **About the Product** | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-about-the-product-sprint-3`<br>**Formato:** `.mp4` | Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por cada segmento objetivo. | [Ver About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQBughACCTT3TKceHs9kcIpFAenxCJlYrLbrMUlsc3tr8lU?
