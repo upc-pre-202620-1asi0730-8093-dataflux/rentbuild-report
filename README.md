@@ -73,7 +73,7 @@ Producto<br>
 
 <br>
 
-<p><strong>Octubre, 2026</strong></p>
+<p><strong>Noviembre, 2026</strong></p>
 
 </div>
 
@@ -81,11 +81,12 @@ Producto<br>
 
 ## Registro de Versiones del Informe
 
-| Versión | Fecha |  Autor   |                                                  Descripción de modificación                                                   |
-| :-----: |:-----:|:--------:| :----------------------------------------------------------------------------------------------------------------------------: |
-| 1.0 | 13/09/2026 | Cisneros Salas Luis Angel,<br>Viza Quispe Marlon Packard,<br>Manosalva Tovar Miroslav Oscar,<br>Montalvo Vásquez Bruno Rodrigo,<br>Vargas Manchinelli Deiby Juan | **Capítulo I: Introducción**<br>&emsp;1.1. Startup Profile<br>&emsp;&emsp;1.1.1. Descripción de la Startup<br>&emsp;&emsp;1.1.2. Perfiles de integrantes del equipo<br>&emsp;1.2. Solution Profile<br>&emsp;&emsp;1.2.1. Antecedentes y problemática<br>&emsp;&emsp;1.2.2. Lean UX Process<br>&emsp;&emsp;&emsp;1.2.2.1. Lean UX Problem Statements<br>&emsp;&emsp;&emsp;1.2.2.2. Lean UX Assumptions<br>&emsp;&emsp;&emsp;1.2.2.3. Lean UX Hypothesis Statements<br>&emsp;&emsp;&emsp;1.2.2.4. Lean UX Canvas<br>&emsp;1.3. Segmentos objetivo<br>**Capítulo II: Requirements Elicitation & Analysis**<br>&emsp;2.1. Competidores<br>&emsp;&emsp;2.1.1. Análisis competitivo<br>&emsp;&emsp;2.1.2. Estrategias y tácticas frente a competidores<br>&emsp;2.2. Entrevistas<br>&emsp;&emsp;2.2.1. Diseño de entrevistas<br>&emsp;&emsp;2.2.2. Registro de entrevistas<br>&emsp;&emsp;2.2.3. Análisis de entrevistas<br>&emsp;2.3. Needfinding<br>&emsp;&emsp;2.3.1. User Personas<br>&emsp;&emsp;2.3.2. User Task Matrix<br>&emsp;&emsp;2.3.3. User Journey Mapping<br>&emsp;&emsp;2.3.4. Empathy Mapping<br>&emsp;2.4. Big Picture EventStorming<br>&emsp;2.5. Ubiquitous Language<br>**Capítulo III: Requirements Specification**<br>&emsp;3.1. User Stories<br>&emsp;3.2. Impact Mapping<br>&emsp;3.3. Product Backlog<br>**Capítulo IV: Product Design**<br>&emsp;4.1. Style Guidelines<br>&emsp;&emsp;4.1.1. General Style Guidelines<br>&emsp;&emsp;4.1.2. Web Style Guidelines<br>&emsp;4.2. Information Architecture<br>&emsp;&emsp;4.2.1. Organization Systems<br>&emsp;&emsp;4.2.2. Labeling Systems<br>&emsp;&emsp;4.2.3. SEO Tags and Meta Tags<br>&emsp;&emsp;4.2.4. Searching Systems<br>&emsp;&emsp;4.2.5. Navigation Systems<br>&emsp;4.3. Landing Page UI Design<br>&emsp;&emsp;4.3.1. Landing Page Wireframe<br>&emsp;&emsp;4.3.2. Landing Page Mock-up<br>&emsp;4.4. Web Applications UX/UI Design<br>&emsp;&emsp;4.4.1. Web Applications Wireframes<br>&emsp;&emsp;4.4.2. Web Applications Wireflow Diagrams<br>&emsp;&emsp;4.4.3. Web Applications Mock-ups<br>&emsp;&emsp;4.4.4. Web Applications User Flow Diagrams<br>&emsp;4.5. Web Applications Prototyping<br>&emsp;4.6. Domain-Driven Software Architecture<br>&emsp;&emsp;4.6.1. Design-Level EventStorming<br>&emsp;&emsp;4.6.2. Software Architecture Context Diagram<br>&emsp;&emsp;4.6.3. Software Architecture Container Diagrams<br>&emsp;&emsp;4.6.4. Software Architecture Components Diagrams<br>&emsp;4.7. Software Object-Oriented Design<br>&emsp;&emsp;4.7.1. Class Diagrams<br>&emsp;4.8. Database Design<br>&emsp;&emsp;4.8.1. Database Diagrams<br>**Capítulo V: Product Implementation, Validation & Deployment**<br>&emsp;5.1. Software Configuration Management<br>&emsp;&emsp;5.1.1. Software Development Environment Configuration<br>&emsp;&emsp;5.1.2. Source Code Management<br>&emsp;&emsp;5.1.3. Source Code Style Guide & Conventions<br>&emsp;&emsp;5.1.4. Software Deployment Configuration<br>&emsp;5.2. Landing Page, Services & Applications Implementation<br>&emsp;&emsp;&emsp;5.2.1.1. Sprint Planning 1<br>&emsp;&emsp;&emsp;5.2.1.2. Aspect Leaders and Collaborators<br>&emsp;&emsp;&emsp;5.2.1.3. Sprint Backlog 1<br>&emsp;&emsp;&emsp;5.2.1.4. Development Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.5. Execution Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.6. Services Documentation Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.7. Software Deployment Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.8. Team Collaboration Insights during Sprint |
-| 1.2 | 08/10/2026 | Equipo DataFlux — revisión pendiente | Recuperación de las secciones acumulativas del informe para TB1, conservación de los nuevos diagramas de clases y de la matriz de personas corregida, y revisión de referencias locales. Sprint 2 permanece como borrador hasta incorporar evidencia verificable. |
-| 1.3 | 08/10/2026 | Equipo DataFlux — revisión pendiente | Lean UX y catálogo US01–US35/TS01–TS09 conciliados; glosario inglés; suplementos de EventStorming/C4/UML y flujos; evidencia local PR12 y colaboración del informe con cortes explícitos. No declara cierre completo de TB1. |
+| Versión |   Fecha    |  Autor   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|:-------:|:----------:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|   1.0   | 13/09/2026 | Cisneros Salas Luis Angel,<br>Viza Quispe Marlon Packard,<br>Manosalva Tovar Miroslav Oscar,<br>Montalvo Vásquez Bruno Rodrigo,<br>Vargas Manchinelli Deiby Juan | **Capítulo I: Introducción**<br>&emsp;1.1. Startup Profile<br>&emsp;&emsp;1.1.1. Descripción de la Startup<br>&emsp;&emsp;1.1.2. Perfiles de integrantes del equipo<br>&emsp;1.2. Solution Profile<br>&emsp;&emsp;1.2.1. Antecedentes y problemática<br>&emsp;&emsp;1.2.2. Lean UX Process<br>&emsp;&emsp;&emsp;1.2.2.1. Lean UX Problem Statements<br>&emsp;&emsp;&emsp;1.2.2.2. Lean UX Assumptions<br>&emsp;&emsp;&emsp;1.2.2.3. Lean UX Hypothesis Statements<br>&emsp;&emsp;&emsp;1.2.2.4. Lean UX Canvas<br>&emsp;1.3. Segmentos objetivo<br>**Capítulo II: Requirements Elicitation & Analysis**<br>&emsp;2.1. Competidores<br>&emsp;&emsp;2.1.1. Análisis competitivo<br>&emsp;&emsp;2.1.2. Estrategias y tácticas frente a competidores<br>&emsp;2.2. Entrevistas<br>&emsp;&emsp;2.2.1. Diseño de entrevistas<br>&emsp;&emsp;2.2.2. Registro de entrevistas<br>&emsp;&emsp;2.2.3. Análisis de entrevistas<br>&emsp;2.3. Needfinding<br>&emsp;&emsp;2.3.1. User Personas<br>&emsp;&emsp;2.3.2. User Task Matrix<br>&emsp;&emsp;2.3.3. User Journey Mapping<br>&emsp;&emsp;2.3.4. Empathy Mapping<br>&emsp;2.4. Big Picture EventStorming<br>&emsp;2.5. Ubiquitous Language<br>**Capítulo III: Requirements Specification**<br>&emsp;3.1. User Stories<br>&emsp;3.2. Impact Mapping<br>&emsp;3.3. Product Backlog<br>**Capítulo IV: Product Design**<br>&emsp;4.1. Style Guidelines<br>&emsp;&emsp;4.1.1. General Style Guidelines<br>&emsp;&emsp;4.1.2. Web Style Guidelines<br>&emsp;4.2. Information Architecture<br>&emsp;&emsp;4.2.1. Organization Systems<br>&emsp;&emsp;4.2.2. Labeling Systems<br>&emsp;&emsp;4.2.3. SEO Tags and Meta Tags<br>&emsp;&emsp;4.2.4. Searching Systems<br>&emsp;&emsp;4.2.5. Navigation Systems<br>&emsp;4.3. Landing Page UI Design<br>&emsp;&emsp;4.3.1. Landing Page Wireframe<br>&emsp;&emsp;4.3.2. Landing Page Mock-up<br>&emsp;4.4. Web Applications UX/UI Design<br>&emsp;&emsp;4.4.1. Web Applications Wireframes<br>&emsp;&emsp;4.4.2. Web Applications Wireflow Diagrams<br>&emsp;&emsp;4.4.3. Web Applications Mock-ups<br>&emsp;&emsp;4.4.4. Web Applications User Flow Diagrams<br>&emsp;4.5. Web Applications Prototyping<br>&emsp;4.6. Domain-Driven Software Architecture<br>&emsp;&emsp;4.6.1. Design-Level EventStorming<br>&emsp;&emsp;4.6.2. Software Architecture Context Diagram<br>&emsp;&emsp;4.6.3. Software Architecture Container Diagrams<br>&emsp;&emsp;4.6.4. Software Architecture Components Diagrams<br>&emsp;4.7. Software Object-Oriented Design<br>&emsp;&emsp;4.7.1. Class Diagrams<br>&emsp;4.8. Database Design<br>&emsp;&emsp;4.8.1. Database Diagrams<br>**Capítulo V: Product Implementation, Validation & Deployment**<br>&emsp;5.1. Software Configuration Management<br>&emsp;&emsp;5.1.1. Software Development Environment Configuration<br>&emsp;&emsp;5.1.2. Source Code Management<br>&emsp;&emsp;5.1.3. Source Code Style Guide & Conventions<br>&emsp;&emsp;5.1.4. Software Deployment Configuration<br>&emsp;5.2. Landing Page, Services & Applications Implementation<br>&emsp;&emsp;&emsp;5.2.1.1. Sprint Planning 1<br>&emsp;&emsp;&emsp;5.2.1.2. Aspect Leaders and Collaborators<br>&emsp;&emsp;&emsp;5.2.1.3. Sprint Backlog 1<br>&emsp;&emsp;&emsp;5.2.1.4. Development Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.5. Execution Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.6. Services Documentation Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.7. Software Deployment Evidence for Sprint Review<br>&emsp;&emsp;&emsp;5.2.1.8. Team Collaboration Insights during Sprint |
+|   1.2   | 08/10/2026 | Equipo DataFlux — revisión pendiente |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Recuperación de las secciones acumulativas del informe para TB1, conservación de los nuevos diagramas de clases y de la matriz de personas corregida, y revisión de referencias locales. Sprint 2 permanece como borrador hasta incorporar evidencia verificable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|   1.3   | 08/10/2026 | Equipo DataFlux — revisión pendiente |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Lean UX y catálogo US01–US35/TS01–TS09 conciliados; glosario inglés; suplementos de EventStorming/C4/UML y flujos; evidencia local PR12 y colaboración del informe con cortes explícitos. No declara cierre completo de TB1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|   1.4   | 11/11/2026 | Equipo DataFlux — revisión pendiente |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         Lean UX y catálogo US01–US35/TS01–TS09 conciliados; glosario inglés; suplementos de EventStorming/C4/UML y flujos; evidencia local PR12 y colaboración del informe con cortes explícitos. No declara cierre completo de AV2, y despliegue y desarrollo del bakend.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 <div style="page-break-after: always;"></div>
 
@@ -248,12 +249,12 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 **Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el avance en el logro del ABET - EAC - Student Outcome 5.
+En el siguiente cuadro se describen las acciones realizadas y las conclusiones del grupo, que permiten sustentar el avance en el logro del ABET - EAC - Student Outcome 5.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 |:---|:---|:---|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **Cisneros Salas, Luis Angel**<br>**AV1:** Lideró la documentación y coordinación del Sprint 1, incluyendo el Sprint Planning, la definición de objetivos y la elaboración de la matriz de Leadership-and-Collaboration (LACX), asignando líderes y colaboradores por cada aspecto del sprint entre los integrantes del equipo.<br>Organizó el Sprint Backlog en Trello, desglosando las User Stories del equipo en Work-Items con estimaciones y asignaciones claras para cada miembro.<br>Coordinó y documentó la evidencia de desarrollo, ejecución y despliegue del Sprint 1, consolidando el trabajo individual del equipo en un reporte conjunto.<br>Definió y distribuyó los User Goals, Task Flows y Wireflow Diagrams de la Web Application, estableciendo la base de diseño que el resto del equipo siguió para el desarrollo de las pantallas.<br>**TB1:** Asumió el contexto Rentals de la Web Application y lo incorporó al repositorio compartido mediante la rama `feature/rentals`. Documentó en el informe el Sprint 2 (sección 5.2.2): restauró la sección y la completó con la evidencia de desarrollo (5.2.2.4), con la tabla de commits reales de la Web Application, la evidencia de ejecución (5.2.2.5), con las capturas de las vistas de la empresa constructora y de la empresa de alquiler, y el tablero de Trello del Sprint 2 con su enlace (5.2.2.3). Además, actualizó el diagrama de base de datos de la sección 4.8.1 como parte de las correcciones de la entrega.<br><br>**Manosalva Tovar, Miroslav Oscar**<br>**AV1:** Durante el desarrollo del proyecto RentBuild, participé activamente en la elaboración de diferentes componentes relacionados con la experiencia de usuario y la documentación de la solución, entre ellos el Lean UX Process, Target Segments, Style Guidelines, Information Architecture, Web Applications User Flow y Web Applications WireFlow. Estas actividades requirieron coordinación con los demás integrantes del equipo para mantener coherencia entre la propuesta de valor, las necesidades de los usuarios, el diseño de las interfaces y la documentación general del proyecto. El trabajo colaborativo se gestionó mediante una organización en GitHub, utilizando repositorios independientes para la documentación de la solución y para el desarrollo de la Landing Page. Cada integrante trabajó sobre ramas específicas de acuerdo con las tareas asignadas y posteriormente realizó Pull Requests hacia la rama develop. Este procedimiento permitió que los cambios fueran revisados por otros miembros antes de ser integrados, promoviendo una responsabilidad compartida sobre la calidad del proyecto. Asimismo, participé en la revisión, corrección y actualización de diferentes elementos del trabajo, contribuyendo a mantener la continuidad entre las actividades realizadas por los distintos miembros y facilitando la integración de los entregables del equipo.<br>**TB1:** Durante el desarrollo de RentBuild, contribuí al progreso del equipo mediante la mejora de la documentación del proyecto y la organización de sus principales entregables, tomando en cuenta las observaciones realizadas por el profesor. Incorporé indicadores cuantificables al final del Problem Statement para evaluar si RentBuild está generando valor y reformulé las Hypothesis Statements para que cumplieran con los cuatro elementos de la plantilla de Lean UX: el resultado esperado del negocio, los usuarios objetivo, el beneficio que recibirán y la funcionalidad propuesta. Asimismo, dividí el User Flow en tres diagramas independientes: Authentication and Registration User Flow, Rental Company Core Domain User Flow y Construction Company Core Domain User Flow. Esta reorganización permitió presentar de manera más clara los procesos de autenticación y los flujos principales correspondientes a cada segmento de usuarios.<br><br>**Montalvo Vásquez, Bruno Rodrigo**<br>**AV1:** Durante el desarrollo de la primera entrega de RentBuild, participé activamente en el trabajo colaborativo del equipo mediante la realización de actividades relacionadas con la identificación de necesidades de los usuarios y la definición inicial de la solución. Participé en el diseño y realización de entrevistas, así como en el registro y análisis de la información obtenida durante el proceso de Needfinding. A partir de estos resultados, contribuí en la elaboración del Impact Mapping, las User Stories y el Product Backlog, permitiendo organizar las necesidades identificadas y relacionarlas con los objetivos y funcionalidades iniciales de RentBuild. Asimismo, participé en la elaboración de los diagramas de clase y diagramas de datos, y colaboré en el desarrollo del diagramado C4 junto con otros integrantes del equipo. Estas actividades requirieron coordinación con los demás miembros para mantener coherencia entre las necesidades identificadas, los requisitos definidos y la representación de la solución.<br>**TB1:** Durante el Sprint 2, contribuí al trabajo colaborativo mediante la revisión y corrección de los artefactos de definición del producto. Participé en la actualización de las User Stories y del Product Backlog, incorporando Technical Stories para representar los requerimientos técnicos asociados al RESTful API y las integraciones externas. Asimismo, colaboré en la corrección del Impact Mapping, revisando la relación entre los objetivos, los actores, las necesidades identificadas y los resultados esperados. Estas actividades requirieron coordinar los cambios con los demás integrantes para mantener la coherencia entre los requisitos funcionales, las necesidades del negocio y los aspectos técnicos de la solución. De esta manera, contribuí a que el equipo contara con una definición más completa de las funcionalidades y del trabajo técnico necesario para las siguientes iteraciones.<br><br>**Vargas Manchinelli, Deiby Juan**<br>**AV1:** Durante el desarrollo de la primera entrega de RentBuild, participé en la elaboración del diagramado C4 de la solución, coordinando este trabajo con los demás integrantes para representar de manera coherente la arquitectura propuesta y sus principales componentes. Asimismo, participé en la estructura y despliegue de la Landing Page, contribuyendo a integrar el trabajo de desarrollo con los demás artefactos definidos para el proyecto. Estas actividades requirieron coordinación con el equipo para mantener consistencia entre la arquitectura, la estructura de la solución y los avances de implementación.<br>**TB1:** Asumí el contexto Subscriptions de la Web Application e integré el código compartido por el equipo con los servicios y rutas de la base común. Coordiné su incorporación mediante la rama `feature/subscriptions` y el Pull Request #12, revisado e integrado por el coordinador. Participé también en la revisión y adaptación de los diagramas C4 y UML al stack de RentBuild, conservando la estructura de referencia acordada. Gestioné las correcciones del informe mediante Pull Requests separados, preservando los aportes de mis compañeros y la organización del trabajo en develop.<br><br>**Viza Quispe, Marlon Packard**<br>**AV1:** Durante el desarrollo del Sprint 1 de RentBuild, participé activamente en la elaboración del análisis competitivo, identificando las fortalezas, debilidades y estrategias de diferenciación frente a otras plataformas. Asimismo, asumí la responsabilidad del diseño UX/UI de la Landing Page mediante la elaboración de Wireframes y Mock-ups, definiendo su estructura visual y organización de contenidos. Posteriormente, participé en la implementación del código de la Landing Page, trasladando los diseños a una interfaz web funcional y responsive. Estas actividades requirieron coordinación con los demás integrantes del equipo para mantener la coherencia entre la propuesta de valor, el diseño y el desarrollo del producto, contribuyendo al cumplimiento de los objetivos establecidos para el Sprint 1.<br>**TB1:** Durante el desarrollo del Sprint 2 de RentBuild, asumí responsabilidades en la organización e integración de la Web Application, contribuyendo a la preparación de la estructura del proyecto en Vue y a la configuración inicial de las ramas main y develop. Participé en la preparación de la base compartida y en la integración de los contextos IAM y Profiles, relacionados con la autenticación, gestión de sesiones y administración de perfiles empresariales. Asimismo, contribuí a integrar los contextos Inventory, Rentals, Maintenance y Subscriptions desarrollados por los demás integrantes, realizando correcciones en las rutas, servicios y componentes compartidos para mantener la compatibilidad entre los módulos. También participé en la implementación de mejoras de accesibilidad, internacionalización en inglés y español y componentes de interfaz mediante PrimeVue. Finalmente, contribuí a la integración y validación de la versión completa de la aplicación, realizando ajustes para su despliegue en Vercel y conectando los botones de ingreso y registro de la Landing Page con la Web Application. Estas actividades permitieron reunir los aportes individuales en una solución integrada, fortaleciendo el trabajo colaborativo y el liderazgo compartido durante el Sprint 2. | **AV1:** Como equipo, concluimos que el liderazgo compartido permitió distribuir las responsabilidades de acuerdo con las actividades asignadas a cada integrante y avanzar de manera paralela en los diferentes artefactos de la primera entrega. La participación en actividades de investigación, definición de requisitos, diseño, arquitectura y desarrollo permitió integrar los distintos aportes en una primera versión de RentBuild. La coordinación entre los integrantes permitió relacionar los resultados del Needfinding con las User Stories, el Product Backlog, los diagramas de arquitectura y los primeros avances de la Landing Page, estableciendo una base para continuar el desarrollo en las siguientes entregas.<br><br>**TB1:** Durante la TB1, el equipo fortaleció el liderazgo compartido mediante la distribución de responsabilidades para el desarrollo e integración de los distintos contextos de la Web Application y la actualización de los artefactos del proyecto. La participación de los integrantes en actividades de programación, corrección de diagramas, actualización del Product Backlog y documentación del Sprint 2 permitió combinar aportes técnicos y de análisis para avanzar hacia un objetivo común. Asimismo, el uso de ramas, commits y Pull Requests facilitó la revisión e integración de los cambios, promoviendo la responsabilidad compartida sobre el resultado final. En conjunto, estas actividades evidencian que el equipo pudo coordinar sus fortalezas y responsabilidades para contribuir al desarrollo de la solución durante esta iteración. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Cisneros Salas, Luis Angel**<br>**AV1:** Estableció las metas del Sprint 1 al definir el Sprint Goal y coordinar con el equipo el alcance de las User Stories a cubrir, articulando la meta común del equipo antes de iniciar el desarrollo.<br>Planificó las tareas del sprint mediante el desglose del Sprint Backlog en Trello, distribuyendo el trabajo entre los integrantes según sus fortalezas y disponibilidad.<br>Fomentó un entorno colaborativo al coordinar la comunicación del equipo mediante WhatsApp y Trello, facilitando que cada integrante conociera el avance y los pendientes del resto.<br>Dio seguimiento al cumplimiento de los objetivos planteados, verificando que las tareas asignadas se completaran dentro del tiempo estimado del sprint.<br>**TB1:** Estableció las metas del Sprint 2 al redactar su objetivo y su planificación, y organizó el Sprint Backlog 2 en un tablero de Trello con las tarjetas del sprint (35 tarjetas completadas en la columna Done). Mantuvo el flujo de trabajo del equipo con GitFlow y Conventional Commits en inglés, y subió sus cambios del informe mediante Pull Requests hacia develop para que fueran revisados e integrados por el coordinador. Al integrar su sección del Sprint 2 con los cambios que el resto del equipo había incorporado en develop, resolvió los conflictos conservando los aportes de los demás integrantes, de modo que el informe acumulativo no perdiera contenido.<br><br>**Manosalva Tovar, Miroslav Oscar**<br>**AV1:** Durante el proyecto mantuve una participación activa y colaborativa, considerando las observaciones y aportes realizados por los demás integrantes antes de incorporar cambios a los entregables. La división del trabajo mediante ramas de Git permitió establecer responsabilidades específicas y desarrollar las tareas de forma organizada, mientras que el uso de Pull Requests proporcionó un espacio para revisar los cambios, realizar observaciones y proponer mejoras antes de integrarlos a la versión principal del proyecto. Ante observaciones o inconsistencias identificadas durante las revisiones, se analizaron los comentarios del equipo y se realizaron los ajustes necesarios buscando mantener la coherencia entre las distintas secciones del proyecto. Este flujo de trabajo permitió que los integrantes pudieran participar tanto en la elaboración como en la validación de los entregables. De esta manera, se promovió la cooperación y la integración del grupo mediante una metodología de trabajo en la que las contribuciones individuales eran revisadas y complementadas por otros miembros, permitiendo avanzar de forma coordinada hacia los objetivos establecidos para RentBuild.<br>**TB1:** Durante esta entrega de RentBuild, demostré una actitud proactiva al incorporar las observaciones del profesor y realizar mejoras concretas en la documentación del proyecto. Añadí indicadores cuantificables al Problem Statement para facilitar la evaluación del valor generado por la solución y reformulé las Hypothesis Statements para garantizar que respetaran la estructura completa de Lean UX. Asimismo, atendí la recomendación de dividir el User Flow debido a su extensión, organizándolo en tres diagramas que representan los procesos de autenticación y registro, las actividades principales de las empresas de alquiler y las actividades principales de las empresas constructoras. También apoyé en la elaboración del tablero de Trello para visualizar el Product Backlog, contribuyendo a que los requerimientos y las tareas pendientes estuvieran organizados y fueran más fáciles de consultar por el equipo. Por otra parte, durante la implementación del módulo de Mantenimiento de la aplicación web, utilicé GitFlow para organizar las ramas de desarrollo y Conventional Commits para mantener un formato consistente en los mensajes de los commits. Esto permitió estructurar mi trabajo de programación y facilitar la identificación de los cambios realizados.<br><br>**Montalvo Vásquez, Bruno Rodrigo**<br>**AV1:** Participé en la planificación y desarrollo de las actividades asignadas para la primera entrega, coordinando con los integrantes del equipo la realización de entrevistas, el proceso de Needfinding y la definición de los requisitos iniciales de RentBuild. Los resultados obtenidos fueron utilizados como base para elaborar el Impact Mapping, las User Stories y el Product Backlog, contribuyendo a establecer y organizar las funcionalidades que formarían parte de la solución. Asimismo, participé en la elaboración de los diagramas de clase, diagramas de datos y diagramado C4, coordinando estos artefactos con el resto de la documentación del proyecto. El trabajo fue desarrollado de manera colaborativa, considerando los aportes y avances de los demás integrantes para mantener la coherencia entre las diferentes partes de la solución y cumplir con los objetivos establecidos para la AV1.<br>**TB1:** Durante el Sprint 2, contribuí a cumplir los objetivos de la entrega mediante la revisión y actualización de los requisitos y artefactos de planificación de RentBuild. Coordiné la incorporación de las Technical Stories necesarias para representar el soporte técnico del RESTful API y las integraciones externas, procurando que las funcionalidades previstas mantuvieran una relación clara con los requerimientos técnicos. También colaboré en la corrección del Impact Mapping para mejorar la correspondencia entre los objetivos del producto, los actores, las necesidades identificadas y los resultados esperados. Estas actividades contribuyeron a que el equipo dispusiera de una planificación más completa y coherente para orientar el desarrollo de la Web Application y las siguientes iteraciones.<br><br>**Vargas Manchinelli, Deiby Juan**<br>**AV1:** Participé en el cumplimiento de los objetivos de la primera entrega mediante el desarrollo de las actividades relacionadas con el diagramado C4 y la estructura y despliegue de la Landing Page. Coordiné con los integrantes responsables de otros artefactos para mantener coherencia entre la arquitectura planteada y la implementación realizada. Asimismo, participé en la revisión e integración de los avances de la Landing Page, contribuyendo a que las tareas asignadas se desarrollaran de acuerdo con los objetivos establecidos para la AV1.<br>**TB1:** Contribuí al objetivo del Sprint 2 al integrar y corregir la comparación y selección de planes, el cambio de plan y la contratación de una suscripción vencida con la Fake API. Validé el contexto mediante 34 pruebas de Subscriptions, la compilación de producción y comprobaciones locales de navegación, idiomas y acceso por segmento. Publiqué los cambios en feature/subscriptions mediante commits y el Pull Request #12. Además, contribuí a adecuar los diagramas al stack del proyecto, entregar una imagen PNG por diagrama y restaurar las ocho secciones aprobadas de Sprint 2 mediante los Pull Requests #48, #51 y #52. Estas actividades permitieron integrar mi contexto y mantener la coherencia de los entregables de TB1.<br><br>**Viza Quispe, Marlon Packard**<br>**AV1:** Durante el Sprint 1 de RentBuild, contribuí al cumplimiento de los objetivos del equipo mediante la planificación y ejecución de mis responsabilidades en el análisis competitivo, diseño UX/UI e implementación de la Landing Page. Mantuve una comunicación constante con mis compañeros para coordinar los avances, recibir observaciones y realizar los ajustes necesarios en los entregables. Asimismo, participé en la integración del diseño y desarrollo de la plataforma, procurando mantener la coherencia visual y funcional del producto. Esta colaboración permitió cumplir con las tareas asignadas dentro de los plazos establecidos y contribuir al logro de las metas del Sprint 1.<br>**TB1:** Durante el Sprint 2 de RentBuild, contribuí al cumplimiento de los objetivos del equipo mediante la organización, integración y validación de las funcionalidades de la Web Application. Utilicé GitHub para gestionar ramas de trabajo, commits, Pull Requests y procesos de integración, facilitando la incorporación de los diferentes módulos desarrollados por el equipo. Participé en la preparación de la base compartida de Vue y en la integración de los contextos IAM y Profiles, verificando funcionalidades relacionadas con el registro, inicio y cierre de sesión, visualización y actualización de perfiles empresariales. Asimismo, realicé ajustes en las rutas de navegación, servicios y componentes compartidos para integrar los módulos de inventario, alquileres, mantenimiento y suscripciones. También contribuí a implementar la internacionalización, mejoras de accesibilidad y componentes visuales mediante PrimeVue, buscando mantener una experiencia de usuario coherente. Como parte de la validación de la versión integrada, se registró la ejecución satisfactoria de 96 pruebas unitarias, dos escenarios de navegador y la compilación de producción. Finalmente, contribuí a la preparación del despliegue en Vercel mediante la configuración de rutas SPA y la conexión de los botones de ingreso y registro de la Landing Page con la Web Application. Estas actividades permitieron resolver problemas de integración, mantener la continuidad del desarrollo y contribuir al cumplimiento de los objetivos establecidos para la TB1. | **AV1:** La definición del Sprint Goal, la organización de las tareas y la distribución de responsabilidades permitieron establecer una forma de trabajo coordinada durante esta primera entrega. El uso de herramientas de colaboración y control de versiones permitió organizar los aportes individuales e integrar progresivamente los diferentes artefactos del proyecto. Como resultado, el equipo logró avanzar en la identificación de necesidades, definición de requisitos, arquitectura, diseño y desarrollo de la Landing Page. Estos resultados corresponden al avance alcanzado durante la AV1 y servirán como base para continuar con la implementación y validación de RentBuild en las siguientes etapas del proyecto.<br><br>**TB1:** Durante la TB1, el equipo fortaleció su capacidad para crear un entorno colaborativo, establecer objetivos y organizar las tareas necesarias para avanzar con la Web Application. La planificación del Sprint 2 y la distribución de responsabilidades por contextos y aspectos de desarrollo permitieron que los integrantes trabajaran en paralelo y coordinaran posteriormente la integración de sus aportes. El uso de GitHub, las ramas de trabajo y los Pull Requests facilitó la revisión de cambios, la resolución de conflictos y la preservación de las contribuciones individuales. Además, las actividades de pruebas, validación, documentación y despliegue contribuyeron a comprobar el avance alcanzado y a mantener la coherencia de los entregables. En conjunto, estas prácticas permitieron al equipo avanzar hacia los objetivos establecidos para la TB1 mediante una organización colaborativa y una responsabilidad compartida sobre el producto. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta.** | **Cisneros Salas, Luis Angel**<br><br>**AV1:** Lideró la documentación y coordinación del Sprint 1, incluyendo el Sprint Planning, la definición de objetivos y la elaboración de la matriz de Leadership-and-Collaboration (LACX), asignando líderes y colaboradores por cada aspecto del sprint entre los integrantes del equipo.<br>Organizó el Sprint Backlog en Trello, desglosando las User Stories del equipo en Work-Items con estimaciones y asignaciones claras para cada miembro.<br>Coordinó y documentó la evidencia de desarrollo, ejecución y despliegue del Sprint 1, consolidando el trabajo individual del equipo en un reporte conjunto.<br>Definió y distribuyó los User Goals, Task Flows y Wireflow Diagrams de la Web Application, estableciendo la base de diseño que el resto del equipo siguió para el desarrollo de las pantallas.<br><br>**TB1:** Asumió el contexto Rentals de la Web Application y lo incorporó al repositorio compartido mediante la rama `feature/rentals`. Documentó en el informe el Sprint 2 (sección 5.2.2): restauró la sección y la completó con la evidencia de desarrollo (5.2.2.4), con la tabla de commits reales de la Web Application, la evidencia de ejecución (5.2.2.5), con las capturas de las vistas de la empresa constructora y de la empresa de alquiler, y el tablero de Trello del Sprint 2 con su enlace (5.2.2.3). Además, actualizó el diagrama de base de datos de la sección 4.8.1 como parte de las correcciones de la entrega.<br><br>**AV2:** Participó en las actividades de desarrollo del backend de RentBuild, colaborando con el equipo en la implementación y revisión de los servicios necesarios para el funcionamiento de la aplicación. Asimismo, contribuyó a las actividades de organización y coordinación del Sprint 3, apoyando el seguimiento de las tareas y los avances realizados por los integrantes.<br><br>**Manosalva Tovar, Miroslav Oscar**<br><br>**AV1:** Durante el desarrollo del proyecto RentBuild, participé activamente en la elaboración de diferentes componentes relacionados con la experiencia de usuario y la documentación de la solución, entre ellos el Lean UX Process, Target Segments, Style Guidelines, Information Architecture, Web Applications User Flow y Web Applications WireFlow. Estas actividades requirieron coordinación con los demás integrantes del equipo para mantener coherencia entre la propuesta de valor, las necesidades de los usuarios, el diseño de las interfaces y la documentación general del proyecto. El trabajo colaborativo se gestionó mediante una organización en GitHub, utilizando repositorios independientes para la documentación de la solución y para el desarrollo de la Landing Page. Cada integrante trabajó sobre ramas específicas de acuerdo con las tareas asignadas y posteriormente realizó Pull Requests hacia la rama develop. Este procedimiento permitió que los cambios fueran revisados por otros miembros antes de ser integrados, promoviendo una responsabilidad compartida sobre la calidad del proyecto. Asimismo, participé en la revisión, corrección y actualización de diferentes elementos del trabajo, contribuyendo a mantener la continuidad entre las actividades realizadas por los distintos miembros y facilitando la integración de los entregables del equipo.<br><br>**TB1:** Durante el desarrollo de RentBuild, contribuí al progreso del equipo mediante la mejora de la documentación del proyecto y la organización de sus principales entregables, tomando en cuenta las observaciones realizadas por el profesor. Incorporé indicadores cuantificables al final del Problem Statement para evaluar si RentBuild está generando valor y reformulé las Hypothesis Statements para que cumplieran con los cuatro elementos de la plantilla de Lean UX: el resultado esperado del negocio, los usuarios objetivo, el beneficio que recibirán y la funcionalidad propuesta. Asimismo, dividí el User Flow en tres diagramas independientes: Authentication and Registration User Flow, Rental Company Core Domain User Flow y Construction Company Core Domain User Flow. Esta reorganización permitió presentar de manera más clara los procesos de autenticación y los flujos principales correspondientes a cada segmento de usuarios.<br><br>**AV2:** Durante el desarrollo del proyecto, contribuí activamente en la implementación del backend, enfocándome en los bounded contexts de IAM y Profiles, aplicando los conocimientos y herramientas correspondientes para el desarrollo de los servicios. Asimismo, colaboré con mi equipo en la revisión y corrección del diagrama de componentes del modelo C4, buscando mantener la coherencia entre la arquitectura planteada y la implementación de la solución. Estas contribuciones permitieron fortalecer el trabajo colaborativo y aportar al cumplimiento de los objetivos establecidos para el proyecto.<br><br>**Montalvo Vásquez, Bruno Rodrigo**<br><br>**AV1:** Durante el desarrollo de la primera entrega de RentBuild, participé activamente en el trabajo colaborativo del equipo mediante la realización de actividades relacionadas con la identificación de necesidades de los usuarios y la definición inicial de la solución. Participé en el diseño y realización de entrevistas, así como en el registro y análisis de la información obtenida durante el proceso de Needfinding. A partir de estos resultados, contribuí en la elaboración del Impact Mapping, las User Stories y el Product Backlog, permitiendo organizar las necesidades identificadas y relacionarlas con los objetivos y funcionalidades iniciales de RentBuild. Asimismo, participé en la elaboración de los diagramas de clase y diagramas de datos, y colaboré en el desarrollo del diagramado C4 junto con otros integrantes del equipo. Estas actividades requirieron coordinación con los demás miembros para mantener coherencia entre las necesidades identificadas, los requisitos definidos y la representación de la solución.<br><br>**TB1:** Durante el Sprint 2, contribuí al trabajo colaborativo mediante la revisión y corrección de los artefactos de definición del producto. Participé en la actualización de las User Stories y del Product Backlog, incorporando Technical Stories para representar los requerimientos técnicos asociados al RESTful API y las integraciones externas. Asimismo, colaboré en la corrección del Impact Mapping, revisando la relación entre los objetivos, los actores, las necesidades identificadas y los resultados esperados. Estas actividades requirieron coordinar los cambios con los demás integrantes para mantener la coherencia entre los requisitos funcionales, las necesidades del negocio y los aspectos técnicos de la solución. De esta manera, contribuí a que el equipo contara con una definición más completa de las funcionalidades y del trabajo técnico necesario para las siguientes iteraciones.<br><br>**AV2:** Durante el desarrollo de la AV2, participé activamente en la implementación del backend de RentBuild, colaborando en el desarrollo de los servicios y en las actividades técnicas necesarias para el funcionamiento de la aplicación. Asimismo, participé en el despliegue de la solución, realizando las configuraciones y verificaciones necesarias para poner la aplicación a disposición del equipo. También contribuí en la corrección de errores y ajustes identificados durante las pruebas y revisiones del proyecto, buscando mejorar la estabilidad y el funcionamiento de los módulos implementados. Finalmente, participé en las actividades correspondientes al Sprint 3, coordinando mis avances con los demás integrantes para contribuir al cumplimiento de los objetivos establecidos.<br><br>**Vargas Manchinelli, Deiby Juan**<br><br>**AV1:** Durante el desarrollo de la primera entrega de RentBuild, participé en la elaboración del diagramado C4 de la solución, coordinando este trabajo con los demás integrantes para representar de manera coherente la arquitectura propuesta y sus principales componentes. Asimismo, participé en la estructura y despliegue de la Landing Page, contribuyendo a integrar el trabajo de desarrollo con los demás artefactos definidos para el proyecto. Estas actividades requirieron coordinación con el equipo para mantener consistencia entre la arquitectura, la estructura de la solución y los avances de implementación.<br><br>**TB1:** Asumí el contexto Subscriptions de la Web Application e integré el código compartido por el equipo con los servicios y rutas de la base común. Coordiné su incorporación mediante la rama `feature/subscriptions` y el Pull Request #12, revisado e integrado por el coordinador. Participé también en la revisión y adaptación de los diagramas C4 y UML al stack de RentBuild, conservando la estructura de referencia acordada. Gestioné las correcciones del informe mediante Pull Requests separados, preservando los aportes de mis compañeros y la organización del trabajo en develop.<br><br>**AV2:** Participé en algunas actividades relacionadas con el desarrollo del backend de RentBuild, colaborando con los demás integrantes en las tareas técnicas necesarias para continuar con la implementación de la solución. Estas actividades permitieron mantener la coordinación del trabajo y contribuir al avance de los objetivos establecidos para la entrega.<br><br>**Viza Quispe, Marlon Packard**<br><br>**AV1:** Durante el desarrollo del Sprint 1 de RentBuild, participé activamente en la elaboración del análisis competitivo, identificando las fortalezas, debilidades y estrategias de diferenciación frente a otras plataformas. Asimismo, asumí la responsabilidad del diseño UX/UI de la Landing Page mediante la elaboración de Wireframes y Mock-ups, definiendo su estructura visual y organización de contenidos. Posteriormente, participé en la implementación del código de la Landing Page, trasladando los diseños a una interfaz web funcional y responsive. Estas actividades requirieron coordinación con los demás integrantes del equipo para mantener la coherencia entre la propuesta de valor, el diseño y el desarrollo del producto, contribuyendo al cumplimiento de los objetivos establecidos para el Sprint 1.<br><br>**TB1:** Durante el desarrollo del Sprint 2 de RentBuild, asumí responsabilidades en la organización e integración de la Web Application, contribuyendo a la preparación de la estructura del proyecto en Vue y a la configuración inicial de las ramas main y develop. Participé en la preparación de la base compartida y en la integración de los contextos IAM y Profiles, relacionados con la autenticación, gestión de sesiones y administración de perfiles empresariales. Asimismo, contribuí a integrar los contextos Inventory, Rentals, Maintenance y Subscriptions desarrollados por los demás integrantes, realizando correcciones en las rutas, servicios y componentes compartidos para mantener la compatibilidad entre los módulos. También participé en la implementación de mejoras de accesibilidad, internacionalización en inglés y español y componentes de interfaz mediante PrimeVue. Finalmente, contribuí a la integración y validación de la versión completa de la aplicación, realizando ajustes para su despliegue en Vercel y conectando los botones de ingreso y registro de la Landing Page con la Web Application. Estas actividades permitieron reunir los aportes individuales en una solución integrada, fortaleciendo el trabajo colaborativo y el liderazgo compartido durante el Sprint 2.<br><br>**AV2:** Participé en algunas actividades relacionadas con el desarrollo del backend de RentBuild, colaborando con el equipo en las tareas de implementación y revisión de los componentes necesarios para el funcionamiento de la solución. Esta participación permitió complementar el trabajo de integración realizado en las entregas anteriores y contribuir al avance de los objetivos técnicos del proyecto. | **AV1:** Como equipo, concluimos que el liderazgo compartido permitió distribuir las responsabilidades de acuerdo con las actividades asignadas a cada integrante y avanzar de manera paralela en los diferentes artefactos de la primera entrega. La participación en actividades de investigación, definición de requisitos, diseño, arquitectura y desarrollo permitió integrar los distintos aportes en una primera versión de RentBuild. La coordinación entre los integrantes permitió relacionar los resultados del Needfinding con las User Stories, el Product Backlog, los diagramas de arquitectura y los primeros avances de la Landing Page, estableciendo una base para continuar el desarrollo en las siguientes entregas.<br><br>**TB1:** Durante la TB1, el equipo fortaleció el liderazgo compartido mediante la distribución de responsabilidades para el desarrollo e integración de los distintos contextos de la Web Application y la actualización de los artefactos del proyecto. La participación de los integrantes en actividades de programación, corrección de diagramas, actualización del Product Backlog y documentación del Sprint 2 permitió combinar aportes técnicos y de análisis para avanzar hacia un objetivo común. Asimismo, el uso de ramas, commits y Pull Requests facilitó la revisión e integración de los cambios, promoviendo la responsabilidad compartida sobre el resultado final. En conjunto, estas actividades evidencian que el equipo pudo coordinar sus fortalezas y responsabilidades para contribuir al desarrollo de la solución durante esta iteración.<br><br>**AV2:** Durante la AV2, el equipo fortaleció el liderazgo compartido mediante la participación de sus integrantes en las actividades de desarrollo del backend, integración de componentes, corrección de errores y despliegue de RentBuild. La distribución de responsabilidades permitió avanzar en diferentes tareas técnicas y coordinar los resultados para mantener la continuidad del proyecto. Asimismo, la participación en el Sprint 3 permitió organizar el trabajo pendiente, realizar ajustes sobre la solución y orientar los esfuerzos hacia los objetivos establecidos para esta etapa. En conjunto, estas actividades evidencian la capacidad del equipo para asumir responsabilidades de manera conjunta, integrar los aportes individuales y contribuir al avance de una solución funcional. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **Cisneros Salas, Luis Angel**<br><br>**AV1:** Estableció las metas del Sprint 1 al definir el Sprint Goal y coordinar con el equipo el alcance de las User Stories a cubrir, articulando la meta común del equipo antes de iniciar el desarrollo.<br>Planificó las tareas del sprint mediante el desglose del Sprint Backlog en Trello, distribuyendo el trabajo entre los integrantes según sus fortalezas y disponibilidad.<br>Fomentó un entorno colaborativo al coordinar la comunicación del equipo mediante WhatsApp y Trello, facilitando que cada integrante conociera el avance y los pendientes del resto.<br>Dio seguimiento al cumplimiento de los objetivos planteados, verificando que las tareas asignadas se completaran dentro del tiempo estimado del sprint.<br><br>**TB1:** Estableció las metas del Sprint 2 al redactar su objetivo y su planificación, y organizó el Sprint Backlog 2 en un tablero de Trello con las tarjetas del sprint (35 tarjetas completadas en la columna Done). Mantuvo el flujo de trabajo del equipo con GitFlow y Conventional Commits en inglés, y subió sus cambios del informe mediante Pull Requests hacia develop para que fueran revisados e integrados por el coordinador. Al integrar su sección del Sprint 2 con los cambios que el resto del equipo había incorporado en develop, resolvió los conflictos conservando los aportes de los demás integrantes, de modo que el informe acumulativo no perdiera contenido.<br><br>**AV2:** Participé en las actividades de planificación y seguimiento del Sprint 3, coordinando con los integrantes la organización de las tareas y los objetivos de esta etapa. Asimismo, colaboré en las actividades de desarrollo del backend y en la revisión de los avances del equipo, procurando mantener una comunicación constante para facilitar la integración de los diferentes aportes y el cumplimiento de las tareas establecidas.<br><br>**Manosalva Tovar, Miroslav Oscar**<br><br>**AV1:** Durante el proyecto mantuve una participación activa y colaborativa, considerando las observaciones y aportes realizados por los demás integrantes antes de incorporar cambios a los entregables. La división del trabajo mediante ramas de Git permitió establecer responsabilidades específicas y desarrollar las tareas de forma organizada, mientras que el uso de Pull Requests proporcionó un espacio para revisar los cambios, realizar observaciones y proponer mejoras antes de integrarlos a la versión principal del proyecto. Ante observaciones o inconsistencias identificadas durante las revisiones, se analizaron los comentarios del equipo y se realizaron los ajustes necesarios buscando mantener la coherencia entre las distintas secciones del proyecto. Este flujo de trabajo permitió que los integrantes pudieran participar tanto en la elaboración como en la validación de los entregables. De esta manera, se promovió la cooperación y la integración del grupo mediante una metodología de trabajo en la que las contribuciones individuales eran revisadas y complementadas por otros miembros, permitiendo avanzar de forma coordinada hacia los objetivos establecidos para RentBuild.<br><br>**TB1:** Durante esta entrega de RentBuild, demostré una actitud proactiva al incorporar las observaciones del profesor y realizar mejoras concretas en la documentación del proyecto. Añadí indicadores cuantificables al Problem Statement para facilitar la evaluación del valor generado por la solución y reformulé las Hypothesis Statements para garantizar que respetaran la estructura completa de Lean UX. Asimismo, atendí la recomendación de dividir el User Flow debido a su extensión, organizándolo en tres diagramas que representan los procesos de autenticación y registro, las actividades principales de las empresas de alquiler y las actividades principales de las empresas constructoras. También apoyé en la elaboración del tablero de Trello para visualizar el Product Backlog, contribuyendo a que los requerimientos y las tareas pendientes estuvieran organizados y fueran más fáciles de consultar por el equipo. Por otra parte, durante la implementación del módulo de Mantenimiento de la aplicación web, utilicé GitFlow para organizar las ramas de desarrollo y Conventional Commits para mantener un formato consistente en los mensajes de los commits. Esto permitió estructurar mi trabajo de programación y facilitar la identificación de los cambios realizados.<br><br>**AV2:** Durante el trabajo en equipo, participé en el diseño del Design-Level Event Storming, colaborando en la representación de los eventos y procesos del sistema para facilitar la comprensión de su funcionamiento y estructura. Además, apoyé en la revisión de los entregables, verificando que cada uno contara con la nomenclatura correspondiente según las indicaciones del enunciado del trabajo. También participé en algunas actividades relacionadas con el desarrollo del backend, coordinando mis avances con los demás integrantes para contribuir al progreso de la implementación. De esta manera, contribuí a mantener una adecuada organización de los artefactos y al cumplimiento de los requisitos establecidos, favoreciendo la coordinación y el desarrollo ordenado de las actividades del equipo.<br><br>**Montalvo Vásquez, Bruno Rodrigo**<br><br>**AV1:** Participé en la planificación y desarrollo de las actividades asignadas para la primera entrega, coordinando con los integrantes del equipo la realización de entrevistas, el proceso de Needfinding y la definición de los requisitos iniciales de RentBuild. Los resultados obtenidos fueron utilizados como base para elaborar el Impact Mapping, las User Stories y el Product Backlog, contribuyendo a establecer y organizar las funcionalidades que formarían parte de la solución. Asimismo, participé en la elaboración de los diagramas de clase, diagramas de datos y diagramado C4, coordinando estos artefactos con el resto de la documentación del proyecto. El trabajo fue desarrollado de manera colaborativa, considerando los aportes y avances de los demás integrantes para mantener la coherencia entre las diferentes partes de la solución y cumplir con los objetivos establecidos para la AV1.<br><br>**TB1:** Durante el Sprint 2, contribuí a cumplir los objetivos de la entrega mediante la revisión y actualización de los requisitos y artefactos de planificación de RentBuild. Coordiné la incorporación de las Technical Stories necesarias para representar el soporte técnico del RESTful API y las integraciones externas, procurando que las funcionalidades previstas mantuvieran una relación clara con los requerimientos técnicos. También colaboré en la corrección del Impact Mapping para mejorar la correspondencia entre los objetivos del producto, los actores, las necesidades identificadas y los resultados esperados. Estas actividades contribuyeron a que el equipo dispusiera de una planificación más completa y coherente para orientar el desarrollo de la Web Application y las siguientes iteraciones.<br><br>**AV2:** Durante la AV2, contribuí al cumplimiento de los objetivos del equipo mediante la participación en el desarrollo del backend y la preparación del despliegue de RentBuild. Coordiné las actividades técnicas con los demás integrantes para integrar los avances de la aplicación y facilitar su disponibilidad para las pruebas y demostraciones. Asimismo, participé en la identificación y corrección de errores, realizando ajustes necesarios para mejorar el funcionamiento de la solución. Estas actividades se desarrollaron en coordinación con el equipo y como parte de las tareas correspondientes al Sprint 3, permitiendo dar continuidad al trabajo realizado en las iteraciones anteriores y avanzar hacia los objetivos establecidos para la entrega.<br><br>**Vargas Manchinelli, Deiby Juan**<br><br>**AV1:** Participé en el cumplimiento de los objetivos de la primera entrega mediante el desarrollo de las actividades relacionadas con el diagramado C4 y la estructura y despliegue de la Landing Page. Coordiné con los integrantes responsables de otros artefactos para mantener coherencia entre la arquitectura planteada y la implementación realizada. Asimismo, participé en la revisión e integración de los avances de la Landing Page, contribuyendo a que las tareas asignadas se desarrollaran de acuerdo con los objetivos establecidos para la AV1.<br><br>**TB1:** Contribuí al objetivo del Sprint 2 al integrar y corregir la comparación y selección de planes, el cambio de plan y la contratación de una suscripción vencida con la Fake API. Validé el contexto mediante 34 pruebas de Subscriptions, la compilación de producción y comprobaciones locales de navegación, idiomas y acceso por segmento. Publiqué los cambios en feature/subscriptions mediante commits y el Pull Request #12. Además, contribuí a adecuar los diagramas al stack del proyecto, entregar una imagen PNG por diagrama y restaurar las ocho secciones aprobadas de Sprint 2 mediante los Pull Requests #48, #51 y #52. Estas actividades permitieron integrar mi contexto y mantener la coherencia de los entregables de TB1.<br><br>**AV2:** Participé en algunas actividades de desarrollo del backend, coordinando con los demás integrantes las tareas técnicas en las que colaboré. Asimismo, contribuí al avance de las actividades previstas para la AV2, procurando mantener la integración de los componentes y el cumplimiento de los objetivos establecidos por el equipo.<br><br>**Viza Quispe, Marlon Packard**<br><br>**AV1:** Durante el Sprint 1 de RentBuild, contribuí al cumplimiento de los objetivos del equipo mediante la planificación y ejecución de mis responsabilidades en el análisis competitivo, diseño UX/UI e implementación de la Landing Page. Mantuve una comunicación constante con mis compañeros para coordinar los avances, recibir observaciones y realizar los ajustes necesarios en los entregables. Asimismo, participé en la integración del diseño y desarrollo de la plataforma, procurando mantener la coherencia visual y funcional del producto. Esta colaboración permitió cumplir con las tareas asignadas dentro de los plazos establecidos y contribuir al logro de las metas del Sprint 1.<br><br>**TB1:** Durante el Sprint 2 de RentBuild, contribuí al cumplimiento de los objetivos del equipo mediante la organización, integración y validación de las funcionalidades de la Web Application. Utilicé GitHub para gestionar ramas de trabajo, commits, Pull Requests y procesos de integración, facilitando la incorporación de los diferentes módulos desarrollados por el equipo. Participé en la preparación de la base compartida de Vue y en la integración de los contextos IAM y Profiles, verificando funcionalidades relacionadas con el registro, inicio y cierre de sesión, visualización y actualización de perfiles empresariales. Asimismo, realicé ajustes en las rutas de navegación, servicios y componentes compartidos para integrar los módulos de inventario, alquileres, mantenimiento y suscripciones. También contribuí a implementar la internacionalización, mejoras de accesibilidad y componentes visuales mediante PrimeVue, buscando mantener una experiencia de usuario coherente. Como parte de la validación de la versión integrada, se registró la ejecución satisfactoria de 96 pruebas unitarias, dos escenarios de navegador y la compilación de producción. Finalmente, contribuí a la preparación del despliegue en Vercel mediante la configuración de rutas SPA y la conexión de los botones de ingreso y registro de la Landing Page con la Web Application. Estas actividades permitieron resolver problemas de integración, mantener la continuidad del desarrollo y contribuir al cumplimiento de los objetivos establecidos para la TB1.<br><br>**AV2:** Participé en algunas actividades relacionadas con el desarrollo del backend de RentBuild, colaborando con los demás integrantes en las tareas técnicas necesarias para continuar con la implementación de la solución. Esta participación permitió contribuir al avance del trabajo planificado y mantener la coordinación con el equipo durante el desarrollo de la AV2. | **AV1:** La definición del Sprint Goal, la organización de las tareas y la distribución de responsabilidades permitieron establecer una forma de trabajo coordinada durante esta primera entrega. El uso de herramientas de colaboración y control de versiones permitió organizar los aportes individuales e integrar progresivamente los diferentes artefactos del proyecto. Como resultado, el equipo logró avanzar en la identificación de necesidades, definición de requisitos, arquitectura, diseño y desarrollo de la Landing Page. Estos resultados corresponden al avance alcanzado durante la AV1 y servirán como base para continuar con la implementación y validación de RentBuild en las siguientes etapas del proyecto.<br><br>**TB1:** Durante la TB1, el equipo fortaleció su capacidad para crear un entorno colaborativo, establecer objetivos y organizar las tareas necesarias para avanzar con la Web Application. La planificación del Sprint 2 y la distribución de responsabilidades por contextos y aspectos de desarrollo permitieron que los integrantes trabajaran en paralelo y coordinaran posteriormente la integración de sus aportes. El uso de GitHub, las ramas de trabajo y los Pull Requests facilitó la revisión de cambios, la resolución de conflictos y la preservación de las contribuciones individuales. Además, las actividades de pruebas, validación, documentación y despliegue contribuyeron a comprobar el avance alcanzado y a mantener la coherencia de los entregables. En conjunto, estas prácticas permitieron al equipo avanzar hacia los objetivos establecidos para la TB1 mediante una organización colaborativa y una responsabilidad compartida sobre el producto.<br><br>**AV2:** Durante la AV2, el equipo continuó fortaleciendo el entorno colaborativo mediante la coordinación de las actividades de desarrollo del backend, las correcciones de la aplicación y la preparación del despliegue de RentBuild. La organización del Sprint 3 permitió establecer objetivos y distribuir las tareas necesarias para continuar con la implementación y mejorar la solución. Asimismo, la comunicación entre los integrantes y la integración de sus avances facilitaron la resolución de problemas técnicos y el seguimiento del trabajo pendiente. Las actividades de desarrollo, revisión y despliegue contribuyeron a comprobar el progreso alcanzado durante esta etapa. En conjunto, el equipo demostró su capacidad para colaborar, organizar tareas y coordinar esfuerzos para cumplir los objetivos establecidos para la AV2. |</div>
 
 <div style="page-break-after: always;"></div>
 
@@ -2373,45 +2374,33 @@ El frontend utiliza Vue 3 y JavaScript, Vue Router, Pinia y PrimeVue. La arquite
 
 ### 4.6.1. Design-Level Event Storming
 
-El Design-Level Event Storming permitió profundizar en los procesos identificados durante el Big Picture Event Storming, detallando los actores, comandos, agregados, eventos de dominio, modelos de lectura, políticas y reglas de negocio involucrados en RentBuild.
+El Design-Level Event Storming permitió profundizar en los procesos identificados durante el Big Picture Event Storming, detallando los actores, comandos, agregados, eventos de dominio, modelos de lectura, políticas y reglas de negocio involucrados en MaquiGest.
 
 Para facilitar su comprensión, el modelado se presenta mediante diagramas individuales por Bounded Context, permitiendo identificar sus responsabilidades y las interacciones entre los componentes del sistema.
 
-**Leyenda de Design-Level Event Storming**
-
-![Leyenda Design-Level Event Storming](assets/images/chapter-4/leyenda-designlevel.png)
-
 **Inventory Bounded Context**
 
-![Inventory Bounded Context](assets/images/chapter-4/inventory-bounded-context.png)
+![Inventory Bounded Context](assets/images/chapter-4/inventory.png)
 
 **Rentals Bounded Context**
 
-![Rentals Bounded Context](assets/images/chapter-4/rentals-bounded-context.png)
+![Rentals Bounded Context](assets/images/chapter-4/rentals.png)
 
 **Maintenance Bounded Context**
 
-![Maintenance Bounded Context](assets/images/chapter-4/maintenance-bounded-context.png)
+![Maintenance Bounded Context](assets/images/chapter-4/maintenance.png)
 
 **Subscription Plans Bounded Context**
 
-![Subscription Plans Bounded Context](assets/images/chapter-4/subscription-plans-bounded-context.png)
-
-**External Systems**
-
-![External Systems](assets/images/chapter-4/external-systems.png)
-
-**Generic IAM Bounded Context**
-
-![Generic IAM Bounded Context](assets/images/chapter-4/generic-iam-bounded-context.png)
+![Subscription Plans Bounded Context](assets/images/chapter-4/suscribtions.png)
 
 **IAM Bounded Context**
 
-![IAM Bounded Context](assets/images/chapter-4/iam-bounded-context.png)
+![IAM Bounded Context](assets/images/chapter-4/iam.png)
 
 **Profiles Bounded Context**
 
-![Profiles Bounded Context](assets/images/chapter-4/profile-bounded-context.png)
+![Profiles Bounded Context](assets/images/chapter-4/profile.png)
 
 ### 4.6.2. Software Architecture Context Diagram
 
@@ -3771,6 +3760,872 @@ La evidencia obtenida mediante GitHub permite establecer trazabilidad entre las 
 
 Asimismo, la actividad registrada es consistente con la Leadership-and-Collaboration Matrix definida para el Sprint 2, en la que se distribuyeron responsabilidades relacionadas con la configuración y routing de la Web Application, la presentación de los procesos de registro e inicio de sesión, la gestión de sesiones, el acceso a dashboards según el tipo de empresa, la integración con el Landing Page y las actividades de Testing & QA.
 
+### 5.2.3. Sprint 3
+
+El Sprint 3 representa la transición de MaquiGest desde una Web Application respaldada por una API simulada hacia una solución distribuida que incorpora un RESTful Web Service desarrollado con Java, Spring Boot, Spring Data JPA y MySQL.
+
+
+
+#### 5.2.3.1. Sprint Planning 3
+
+El Sprint 3 de MaquiGest estuvo orientado a la consolidación funcional de la plataforma mediante el desarrollo de un RESTful Web Service propio, su integración con la Web Application implementada en Angular y la incorporación de persistencia de datos mediante MySQL. Durante la planificación, el equipo CleanCode priorizó la sustitución de la Fake API utilizada en el Sprint 2 por servicios reales desarrollados con Java y Spring Boot, organizados siguiendo principios de Domain-Driven Design (DDD), arquitectura por capas y Command Query Responsibility Segregation (CQRS).
+
+Asimismo, se consideraron la implementación de los principales procesos de negocio, la documentación de los endpoints mediante OpenAPI y Swagger UI, la ejecución de pruebas y la preparación de los entornos de despliegue correspondientes a la entrega AV2. La planificación y coordinación general del Sprint estuvieron lideradas por Delgado Perez, James Caleb, quien organizó el seguimiento de los avances técnicos, la integración de los componentes y las actividades necesarias para consolidar los entregables del proyecto.
+
+A continuación, se presenta la tabla resumen del Sprint Planning 3:
+
+| Campo | Descripción |
+| :--- | :--- |
+| **Sprint #** | Sprint 3 |
+| **Sprint Planning Background** | |
+| Date | 2026-11-04 |
+| Time | 05:00 PM |
+| Location | Reunión virtual mediante Discord. |
+| Prepared By | Delgado Perez, James Caleb |
+| Attendees (to planning meeting) | Delgado Perez, James Caleb / Montalvo Vasquez, Bruno Rodrigo / Manosalva Tovar, Miroslav Oscar / Paredes Chavez, Carlos Augusto |
+| Sprint 2 Review Summary | Durante el Sprint 2 se desarrolló y desplegó la primera versión funcional de la Web Application de MaquiGest utilizando Angular. Esta versión incorporó interfaces para autenticación, administración de perfiles empresariales, gestión de inventario, solicitudes de alquiler, entregas, devoluciones, mantenimiento y suscripciones. Para representar los principales recorridos funcionales se utilizó una Fake API implementada con JSON Server y desplegada en Render. Asimismo, se estableció la navegación entre la Landing Page y la Web Application, publicadas en Netlify y Vercel, respectivamente. Como resultado, el equipo consolidó una primera experiencia funcional que permitió establecer las bases para la integración con servicios RESTful propios durante el Sprint 3. |
+| Sprint 2 Retrospective Summary | El equipo identificó como principales fortalezas el desarrollo progresivo de las funcionalidades de la Web Application, la organización colaborativa mediante Git y GitHub y la disponibilidad de versiones desplegadas de los productos digitales. Como oportunidades de mejora, se reconoció la necesidad de sustituir la API simulada por un backend real, incorporar persistencia mediante MySQL, reforzar la seguridad y autorización de los servicios, mejorar la correspondencia entre los artefactos arquitectónicos y la implementación, y fortalecer las pruebas de integración. Asimismo, se identificó la importancia de mantener actualizadas las evidencias técnicas y la documentación de los servicios para facilitar su revisión durante la siguiente entrega. |
+| **Sprint Goal & User Stories** | |
+| Sprint 3 Goal | **Nuestro enfoque está en** permitir que las empresas constructoras y las empresas de alquiler de maquinaria utilicen los principales procesos de MaquiGest mediante una Web Application integrada con servicios RESTful propios y persistencia real de información.<br><br>**Creemos que esto proporcionará** una experiencia más confiable y funcional para ambos segmentos objetivo, al permitir consultar maquinaria, gestionar solicitudes de alquiler y acceder a información actualizada de sus operaciones mediante una plataforma integrada, sin depender de una API simulada.<br><br>**Esto se confirmará cuando** una empresa constructora pueda registrarse, autenticarse, consultar maquinaria disponible y registrar una solicitud de alquiler desde la Web Application; una empresa de alquiler pueda consultar y gestionar las solicitudes correspondientes; y los servicios REST utilizados estén disponibles mediante el backend desarrollado con Spring Boot y documentados a través de OpenAPI y Swagger UI. |
+| Sprint 3 Velocity | 86 Story Points completados en `develop` al corte documentado del Sprint 3, con 8 Story Points en progreso. Esta cifra representa el avance observado; la capacidad estimada inicialmente para el Sprint no consta por separado en el registro disponible. |
+| Sum of Story Points | 94 Story Points registrados para el Sprint 3. |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+Durante el Sprint 3, el equipo CleanCode organizó sus responsabilidades considerando los principales aspectos funcionales y técnicos necesarios para consolidar MaquiGest. Estas actividades comprendieron el desarrollo del backend mediante Spring Boot, la integración de la Web Application desarrollada en Angular, la planificación y actualización del Sprint Backlog, las entrevistas de validación, la revisión de los artefactos arquitectónicos y de base de datos, la documentación técnica y el despliegue de la plataforma.
+
+El liderazgo general y la coordinación del Sprint estuvieron a cargo de Delgado Perez, James Caleb, quien asumió la organización de las actividades de desarrollo, integración, documentación y despliegue, así como el seguimiento de los entregables correspondientes a la AV2. Los demás integrantes participaron en la implementación de funcionalidades y asumieron responsabilidades específicas según las actividades asignadas.
+
+La distribución de responsabilidades se representa mediante una Leadership-and-Collaboration Matrix (LACX), en la cual la letra **L** identifica al integrante responsable principal de cada aspecto (Leader), mientras que la letra **C** identifica a los integrantes que participaron como colaboradores (Collaborators). Esta matriz permite visualizar la distribución de responsabilidades y mantener una coordinación efectiva durante el desarrollo del Sprint.
+
+Los aspectos considerados fueron el desarrollo de servicios RESTful, la integración de la Web Application, las entrevistas de validación, la planificación del Sprint Backlog, la documentación técnica, el diseño de base de datos y el despliegue de la solución.
+
+| Team Member (Last Name, First Name) | GitHub Username | Backend REST Services | Web Application Integration | Validation Interview | Sprint Backlog | Documentation | Database Design | Deployment |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Delgado Perez, James Caleb | JAmsy06 | **L** | **L** | C | C | **L** | C | **L** |
+| Montalvo Vasquez, Bruno Rodrigo | TartaroZ | C | C | **L** | **L** | C | C | C |
+| Manosalva Tovar, Miroslav Oscar | Miroa123 | C | C | C | C | C | C | C |
+| Paredes Chavez, Carlos Augusto | CarlossUPC | C | C | C | C | C | **L** | C |
+
+En el desarrollo del backend, el equipo colaboró en la implementación de los servicios correspondientes a los Bounded Contexts IAM, Profiles, Inventory, Rentals, Maintenance y Subscriptions, junto con las capacidades transversales de Shared. James asumió la coordinación técnica general de estas actividades, participando en la integración de los componentes y en la preparación de la plataforma para su funcionamiento junto con la Web Application.
+
+Bruno contribuyó al desarrollo e integración del backend y asumió responsabilidades principales relacionadas con las entrevistas de validación, las evaluaciones heurísticas y la actualización de los artefactos de planificación, incluyendo las User Stories y el Product Backlog del Sprint 2. Asimismo, participó en la preparación de las evidencias de ejecución correspondientes al Sprint 3 y en las correcciones del Event Storming.
+
+
+Miroslav participó en la implementación de funcionalidades del backend relacionadas con la gestión de maquinaria, las reglas de negocio, la disponibilidad y los servicios RESTful. También contribuyó a la revisión del Design-Level Event Storming y al análisis de las entrevistas de validación considerando criterios de usabilidad, arquitectura de información e Inclusive Design.
+
+Carlos participó en el desarrollo del backend y asumió responsabilidades principales relacionadas con la corrección y actualización de los diagramas C4, los diagramas de clases, la representación de los componentes del backend y el diseño de base de datos. Estas actividades permitieron mejorar la coherencia entre los artefactos arquitectónicos, la estructura de persistencia y la implementación técnica de MaquiGest.
+
+Adicionalmente, James lideró la documentación de los apartados del Sprint 3, incluyendo Sprint Backlog 3, Development Evidence for Sprint Review, Services Documentation Evidence for Sprint Review y Software Deployment Evidence for Sprint Review. También coordinó las actividades de integración y despliegue del backend en Northflank, la Web Application en Vercel y la Landing Page en Netlify, así como la preparación del video About the Product y la presentación About the Team.
+
+Esta organización permitió distribuir las responsabilidades entre los cuatro integrantes, mantener una coordinación técnica centralizada y promover la colaboración durante las actividades de desarrollo, validación, documentación y despliegue. Como resultado, el equipo avanzó en la consolidación de MaquiGest como una plataforma web integrada con servicios RESTful propios y una base de datos MySQL.
+
+
+
+### 5.2.3.3. Sprint Backlog 3
+
+Durante el Sprint 3, el equipo CleanCode orientó sus actividades al desarrollo e integración del backend de MaquiGest, plataforma SaaS destinada a la gestión y alquiler de maquinaria de construcción. El propósito principal fue sustituir los servicios simulados utilizados en iteraciones anteriores por una API REST funcional, desarrollada con Java 27, Spring Boot y MySQL, e integrada con la Web Application implementada en Angular.
+
+La planificación comprendió la implementación de servicios para autenticación, perfiles empresariales, gestión de maquinaria, disponibilidad, solicitudes de alquiler, entregas, devoluciones, mantenimiento, incidencias y suscripciones. Asimismo, se contemplaron actividades relacionadas con la persistencia de datos, validación de solicitudes, gestión de respuestas HTTP y documentación OpenAPI.
+
+Para organizar y supervisar el avance de estas actividades se utilizó Trello, mediante un tablero denominado **Spring Backlog 3 - MaquiGest**, estructurado bajo un flujo Kanban con las listas To-Do, In-Progress, Review y Done.
+
+**Sprint Goal:** Implementar e integrar los servicios principales del backend de MaquiGest con la Web Application y la base de datos MySQL, permitiendo la ejecución de operaciones reales mediante endpoints REST y reduciendo la dependencia de los servicios simulados.
+
+**Sprint Backlog Board:** Pendiente de incorporar el enlace compartido del tablero Trello.
+
+#### Evidencias del Sprint Backlog 3
+
+Las siguientes capturas muestran la organización del Sprint Backlog 3, sus Technical Stories y el estado de avance de las actividades registradas por el equipo.
+
+![Vista general del Sprint Backlog 3](assets/images/sprint-3/trello/trello-sprint3-1.png)
+
+*Figura 1. Vista general del tablero Trello correspondiente al Sprint 3 de MaquiGest.*
+
+![Actividades de alquileres y mantenimiento](assets/images/sprint-3/trello/trello-sprint3-2.png)
+
+*Figura 2. Evidencia de las actividades técnicas relacionadas con alquileres, entregas, devoluciones y mantenimiento.*
+
+![Actividades de backend e infraestructura](assets/images/sprint-3/trello/trello-sprint3-3.png)
+
+*Figura 3. Evidencia de las actividades relacionadas con autenticación, persistencia, validaciones y servicios REST.*
+
+![Actividades de documentación y perfiles](assets/images/sprint-3/trello/trello-sprint3-4.png)
+
+*Figura 4. Evidencia de las actividades de documentación OpenAPI, gestión de perfiles y respuestas HTTP.*
+
+#### Sprint Backlog 3 Task Distribution
+
+La distribución del trabajo se organizó mediante 16 Technical Stories, identificadas desde TS01 hasta TS16. Estas actividades representan funcionalidades y tareas técnicas necesarias para la implementación de los servicios principales de MaquiGest.
+
+La tabla mantiene las columnas solicitadas en el enunciado oficial del proyecto. Los estados proceden de las capturas del tablero Trello. Las estimaciones en horas son propuestas retrospectivas y los responsables son asignaciones sugeridas a partir de los historiales Git; ambos datos requieren confirmación del equipo, pues no están acreditados como registros originales de planificación.
+
+| Sprint # | Sprint 3 |
+|---|---|
+
+| Story Id | Story Title | Task Id | Task Title | Task Description | Estimation (Hours) | Assigned To | Status |
+|---|---|---|---|---|---:|---|---|
+| TS01 | Exposición de servicios REST | TS01 | Exponer API REST de MaquiGest | Configurar la infraestructura necesaria para publicar los servicios REST de los módulos de la plataforma. | 12 | James Caleb | Done |
+| TS02 | Gestión de perfiles empresariales | TS02 | Implementar servicios REST de perfiles | Desarrollar operaciones para registrar, consultar y administrar la información de las empresas. | 14 | Bruno | Done |
+| TS03 | Gestión de maquinaria | TS03 | Implementar servicios REST de maquinaria | Desarrollar operaciones para registrar, consultar, actualizar y administrar equipos de construcción. | 20 | Miroslav | Done |
+| TS04 | Disponibilidad de maquinaria | TS04 | Consultar disponibilidad de equipos | Implementar consultas y validaciones de disponibilidad relacionadas con las operaciones de alquiler. | 12 | Miroslav | Done |
+| TS05 | Solicitudes de alquiler | TS05 | Gestionar solicitudes de alquiler | Implementar operaciones para registrar, consultar y gestionar solicitudes de alquiler de equipos. | 20 | CarlossUPC | Done |
+| TS06 | Reservas y estados de alquiler | TS06 | Gestionar reservas y estados | Desarrollar operaciones para administrar las reservas y las transiciones de estado durante el alquiler. | 18 | CarlossUPC | Done |
+| TS07 | Entregas y devoluciones | TS07 | Gestionar entregas y devoluciones | Implementar operaciones para registrar la entrega y devolución de maquinaria, considerando las reglas del ciclo de alquiler. | 16 | CarlossUPC | Done |
+| TS08 | Mantenimiento e incidencias | TS08 | Implementar servicios de mantenimiento | Desarrollar operaciones para registrar incidencias, gestionar mantenimientos y consultar el historial correspondiente. | 24 | CarlossUPC | Done |
+| TS09 | Planes y suscripciones | TS09 | Implementar servicios de suscripciones | Desarrollar operaciones para consultar planes y gestionar el ciclo de vida de las suscripciones. | 16 | Miroslav | Done |
+| TS10 | Autenticación y autorización | TS10 | Implementar autenticación y seguridad | Desarrollar el registro e inicio de sesión, la autenticación JWT y las restricciones de acceso correspondientes. | 20 | Bruno | Done |
+| TS11 | Notificaciones transaccionales | TS11 | Integrar SendGrid | Integrar un servicio externo para el envío de notificaciones transaccionales relacionadas con las operaciones de MaquiGest. | 12 | Sin asignación confirmada | To-Do |
+| TS12 | Persistencia de información | TS12 | Implementar persistencia JPA y MySQL | Configurar entidades de persistencia, repositorios y adaptadores para almacenar información del dominio. | 20 | James Caleb | Done |
+| TS13 | Validación de solicitudes | TS13 | Validar requests de la API REST | Incorporar validaciones para los datos recibidos por los endpoints y controlar solicitudes incorrectas. | 12 | James Caleb | Done |
+| TS14 | Gestión de errores HTTP | TS14 | Estandarizar respuestas y errores | Implementar respuestas HTTP apropiadas y mecanismos de gestión de excepciones. | 12 | James Caleb | Done |
+| TS15 | Documentación de servicios | TS15 | Documentar API mediante OpenAPI | Configurar Springdoc OpenAPI y Swagger UI para documentar los recursos REST disponibles. | 10 | James Caleb | Done |
+| TS16 | Servicios de mapas | TS16 | Integrar servicios de mapas | Incorporar servicios geográficos externos para apoyar los procesos de entrega y devolución de maquinaria. | 16 | Sin asignación confirmada | To-Do |
+
+#### Seguimiento y resultados del Sprint Backlog
+
+El estado registrado en las evidencias del tablero Trello permite identificar el avance de las 16 Technical Stories planificadas para el Sprint 3.
+
+| Status | Cantidad de tareas | Porcentaje |
+|---|---:|---:|
+| To-Do | 2 | 12,5 % |
+| In-Progress | 0 | 0 % |
+| Review | 0 | 0 % |
+| Done | 14 | 87,5 % |
+| **Total** | **16** | **100 %** |
+
+De acuerdo con estos registros, 14 de las 16 Technical Stories se encontraban en estado Done, lo que representa un avance del 87,5 % respecto al número total de tarjetas del Sprint Backlog.
+
+La estimación referencial propuesta para las 16 actividades equivale a 254 horas, distribuidas en 226 horas correspondientes a tareas marcadas como Done y 28 horas correspondientes a tareas pendientes. Estas cifras representan estimaciones de esfuerzo y no horas efectivamente registradas.
+
+Las actividades finalizadas abarcan la exposición de servicios REST, gestión de perfiles, inventario de maquinaria, solicitudes de alquiler, entregas, devoluciones, mantenimiento, suscripciones, autenticación, persistencia y documentación OpenAPI.
+
+Por otro lado, se identificaron dos actividades que permanecían pendientes al momento del registro:
+
+- **TS11 — Integrar SendGrid:** pendiente la integración de un servicio externo de notificaciones transaccionales.
+- **TS16 — Integrar servicios de mapas:** pendiente la integración de servicios geográficos para los procesos de entrega y devolución.
+
+Estas actividades no se consideran funcionalidades implementadas en el presente Sprint.
+
+En conclusión, el Sprint Backlog 3 refleja la priorización del desarrollo de servicios reales y la integración técnica entre los componentes de MaquiGest. El estado de las tareas proporciona trazabilidad del trabajo realizado y permite identificar los requerimientos técnicos que permanecen pendientes para las siguientes iteraciones.
+
+### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo CleanCode llevó a cabo la implementación y consolidación de los servicios backend de MaquiGest, así como su integración con la Web Application desarrollada en Angular. El trabajo tuvo como objetivo disponer de una arquitectura funcional que permitiera ejecutar las operaciones principales de la plataforma mediante servicios REST y persistencia de información en una base de datos relacional.
+
+El backend fue desarrollado utilizando Java 27, Spring Boot 4.1.2, Spring Security, Spring Data JPA y MySQL. Por su parte, la Web Application fue adaptada para consumir los endpoints reales, reemplazando progresivamente la Fake API utilizada en las iteraciones anteriores.
+
+La implementación se organizó considerando los principios de Domain-Driven Design (DDD), la separación de responsabilidades mediante Command Query Responsibility Segregation (CQRS) y la utilización de contratos de integración entre Bounded Contexts.
+
+Para mantener la trazabilidad del desarrollo, el equipo empleó Git y GitHub como herramientas de control de versiones, siguiendo un flujo de trabajo basado en GitFlow.
+
+#### Repositorios utilizados
+
+Los principales repositorios relacionados con el desarrollo técnico del Sprint 3 son los siguientes:
+
+**Backend — MaquiGest Platform**
+
+https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform
+
+Contiene los servicios REST, la lógica de negocio, los modelos de dominio, los repositorios de persistencia, la configuración de seguridad y la documentación OpenAPI.
+
+**Frontend — MaquiGest WebApp**
+
+https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp
+
+Contiene la aplicación Angular, sus componentes de interfaz, servicios HTTP, navegación y adaptadores para consumir los recursos proporcionados por el backend.
+
+#### Organización del desarrollo mediante GitFlow
+
+El equipo organizó la implementación a través de ramas de trabajo que permitieron desarrollar funcionalidades y mejoras de forma independiente antes de integrarlas.
+
+Se utilizaron las siguientes categorías de ramas:
+
+- **feature/**: desarrollo de funcionalidades específicas, integración de servicios y mejoras de arquitectura.
+- **develop**: integración de los cambios provenientes de las diferentes ramas de desarrollo.
+- **release/**: preparación de las versiones destinadas a publicación.
+- **main**: código correspondiente a las versiones liberadas del proyecto.
+
+Este procedimiento permitió mantener separados los cambios en desarrollo y las versiones destinadas al despliegue, facilitando la revisión de commits y la integración del trabajo de los integrantes.
+
+#### Implementación de los Bounded Contexts
+
+La solución backend se estructuró mediante seis Bounded Contexts principales y un módulo transversal denominado shared.
+
+| Bounded Context | Responsabilidad principal | Evidencia de desarrollo |
+|---|---|---|
+| IAM | Gestionar el registro de usuarios, autenticación, autorización y acceso seguro. | Servicios de registro, autenticación y configuración JWT. |
+| Profiles | Administrar la información de las empresas constructoras y de alquiler. | Endpoints y recursos REST para perfiles empresariales. |
+| Inventory | Gestionar equipos, características y disponibilidad de maquinaria. | Endpoints de maquinaria y validaciones de disponibilidad. |
+| Rentals | Gestionar solicitudes, reservas, alquileres, entregas y devoluciones. | Servicios REST del ciclo de alquiler y sus transiciones. |
+| Maintenance | Registrar incidencias, mantenimientos e historial de equipos. | Endpoints de incidencias y mantenimiento. |
+| Subscriptions | Administrar planes y operaciones del ciclo de suscripciones. | Servicios REST de planes y suscripciones. |
+| shared | Proporcionar mecanismos técnicos y contratos transversales. | Configuración común, documentación OpenAPI y manejo de aspectos compartidos. |
+
+La organización mediante Bounded Contexts permitió separar las responsabilidades del negocio y reducir dependencias directas entre los módulos. Asimismo, se realizaron mejoras de integración utilizando Published Language y Anti-Corruption Layer (ACL), especialmente en las operaciones que requerían comunicación entre contextos.
+
+#### Git Commit Evidence
+
+La siguiente tabla presenta una selección representativa de los commits registrados durante el desarrollo e integración del Sprint 3. Se incluyen los identificadores, las ramas asociadas, los mensajes originales, el contenido del cuerpo cuando existe y sus respectivas fechas.
+
+Los mensajes de commit se mantienen en su idioma original para preservar la trazabilidad con GitHub.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| maquigest-platform | feature/setup-platform-configuration | [25b0bc7](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/25b0bc724e397d79ef70bc0813a17760d9fcd76a) | build: configure maven and project dependencies. | Configure Java 27, Spring Boot 4.1.2, Maven Wrapper 3.9.11, and the dependencies required by the Learning Center architecture. | 2026-11-03 |
+| maquigest-platform | feature/shared-bounded-context | [d68047a](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/d68047a42db8f0110a76ee1e409fe1584213e5df) | feat(shared): configure OpenAPI and virtual threads. | Configure API documentation and virtual-thread execution following the Learning Center architecture. | 2026-11-03 |
+| maquigest-platform | feature/iam-authentication | [527c024](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/527c0249e343ccea5acf7efcbca0761ca5d93b63) | feat(iam): expose company registration REST endpoint. | Provide the sign-up endpoint and response resources compatible with MaquiGest WebApp. | 2026-11-03 |
+| maquigest-platform | feature/equipment-management | [2149006](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/214900625a7a87f373f6a666b83f8b94c1b39254) | feat(inventory): expose equipment management REST endpoints. | Implement equipment registration, listing, details, updates, deletion and availability endpoints with ownership checks and HTTP responses. | 2026-11-03 |
+| maquigest-platform | feature/profiles-bounded-context | [f6c1c04](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/f6c1c044886b4e574139cdb7d91fbc87691aae14) | feat(profiles): expose company profile REST contracts. | Add controllers, resources and assemblers compatible with Angular profile and rentals requests. | 2026-11-04 |
+| maquigest-platform | feature/rentals-bounded-context | [8d65e38](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/8d65e387358e4d2a6588fcdf6b871b6fe3074224) | feat(rentals): expose rental lifecycle REST endpoints. | Expose REST controllers, request and response resources, transformation assemblers, and localized error handling for rental requests, rentals, deliveries, and equipment returns. Maintain Angular API compatibility. | 2026-11-04 |
+| maquigest-platform | feature/maintenance-bounded-context | [9c7dd83](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/9c7dd83040a4667ea69ba59ce160f7fa28bbfcd2) | feat(maintenance): expose REST workflows and localized errors. | Expose versioned incident, maintenance and equipment history APIs with resource assemblers and localized problem responses. | 2026-11-04 |
+| maquigest-platform | feature/subscriptions-bounded-context | [38cc661](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/38cc6616c223729de23c97a983fda167cd507fff) | feat(subscriptions): expose subscription REST endpoints. | Expose REST controllers for subscription plans and user subscriptions, including creation, retrieval, and cancellation operations. Define request and response resources with transformation assemblers compatible with the MaquiGest WebApp API contracts. | 2026-11-04 |
+| maquigest-platform | feature/ddd-iam-company-directory-acl | [268ea2c](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/268ea2ca662d5c0df433b23cc149edc3b344c449) | refactor(iam): publish company directory through ACL facade. | Move IAM company directory queries behind a published facade and keep JPA access inside IAM. Update Profiles to consume immutable company snapshots without importing IAM persistence entities. Add seven regression tests and preserve existing directory filtering and REST contracts. | 2026-11-05 |
+| maquigest-platform | feature/ddd-inventory-rentals-acl | [7a8d08d](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/7a8d08d1fe9063e1f7b7b743987b1f200a1fe64a) | refactor(inventory): publish rental reservation operations through ACL | Move Inventory aggregate operations and pessimistic locking behind a published facade. Preserve reservations, deliveries, returns, error responses and transaction boundaries. Add unit and opt-in MySQL integration tests. | 2026-11-05 |
+| maquigest-platform | feature/ddd-final-regression-audit | [986e956](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/986e956e067de72466f053fe44976831e726cec3) | test(ddd): close final architecture and API regression | Guard six bounded contexts against forbidden imports and validate published REST routes in OpenAPI. Exercise security, MySQL locks, persistence, event commit/rollback and Maven verify. Sanitize unhandled HTTP 500 messages so internal exception details are not returned. Preserve routes, HTTP codes, database schema and all business transitions. The Angular UI E2E remains a separate manual acceptance check. | 2026-11-05 |
+| maquigest-platform | feature/maintenance-safe-reactivation-20261111-231517 | [022b058](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/022b05814daa68d1566de0ac0db777e07ad22e00) | feat(maintenance): support return-based reactivation through rentals ACL | Sin cuerpo de commit. | 2026-11-11 |
+| maquigest-platform | release/v1.0.0 | [940f7fa](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/940f7fa5834a50e9078546042148381bf1bcf404) | build: configure Java 27 for Northflank | Sin cuerpo de commit. | 2026-11-12 |
+| maquigest-platform | main | [601a991](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/601a991f2aa7466b8772d7b762945ae6a007a3d5) | Merge pull request #13 from upc-pre-202620-1asi0729-7750-cleancode/release/v1.0.0 | build: configure Java 27 for Northflank deployment | 2026-11-12 |
+| maquigest-webapp | feature/decouple-fake-api | [5e257ec](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/5e257ec) | refactor(frontend): decouple fake API from Angular application | Remove embedded demo API, json-server data and simulated authentication endpoint. Configure HTTP access through the Spring Boot Platform API and update application tests. | 2026-11-03 |
+| maquigest-webapp | feature/us05-password-recovery | [a3abd44](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/a3abd44) | feat(iam): implement password recovery frontend | Add password recovery form, internationalization, validation, and REST integration following the IAM layered architecture. | 2026-11-03 |
+| maquigest-webapp | feature/us26-equipment-history | [73752cb](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/73752cb) | feat(maintenance): implement US26 equipment history frontend | Add equipment history view, REST adapter, domain model, application store, route guards, internationalization, and navigation from inventory. Backend integration remains pending. | 2026-11-03 |
+| maquigest-webapp | feature/inventory-operational-acl | [fa92dd4](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/fa92dd4) | feat(inventory): integrate server-side equipment availability checks. | Delegate equipment availability validation to the Spring Boot API through Angular infrastructure adapters and application store, including regression tests. | 2026-11-04 |
+| maquigest-webapp | feature/maintenance-atomic-workflows | [42bc883](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/42bc883) | feat(rentals): permitir editar periodos de solicitudes pendientes | Integra PATCH, store, politica y formulario de edicion para solicitudes PENDING, con estados y errores. | 2026-11-04 |
+| maquigest-webapp | feature/ui-mockup-alignment | [5697cb0](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/5697cb0) | feat(inventory): mejorar catalogo y gestion visual de maquinaria | Ajusta listado, busqueda, formularios y detalles de maquinaria conservando las operaciones y enlaces existentes. | 2026-11-05 |
+| maquigest-webapp | feature/ui-mockup-alignment | [5814d12](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/5814d12) | feat(maintenance): mejorar mantenimiento e incidencias | Organiza los historiales, filtros, formularios, navegacion y seguimiento de mantenimiento e incidencias. | 2026-11-05 |
+| maquigest-webapp | feature/ui-mockup-alignment | [3fc6b4e](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/3fc6b4e) | style(responsive): adaptar tablas y tarjetas para movil | Corrige la disposicion responsive compartida en inventario, solicitudes, alquileres, mantenimiento y mis solicitudes. | 2026-11-05 |
+| maquigest-webapp | feature/maintenance-completion-reactivation-ui-20261111-231517 | [2366a4e](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/2366a4e) | fix(maintenance): enable safe reactivation from incident UI | Sin cuerpo de commit. | 2026-11-11 |
+| maquigest-webapp | develop | [ddd5382](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/ddd5382) | fix(rentals): improve availability and rental request error messages | Sin cuerpo de commit. | 2026-11-12 |
+| maquigest-webapp | release/v2.0.0 | [42b5991](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/42b5991) | chore(deploy): configure Northflank API proxy for Vercel. | Sin cuerpo de commit. | 2026-11-12 |
+| maquigest-webapp | main | [f341489](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-webapp/commit/f341489) | Merge pull request #1 from upc-pre-202620-1asi0729-7750-cleancode/release/v2.0.0 | release: MaquiGest WebApp v2.0.0 | 2026-11-12 |
+
+La selección presentada permite identificar los principales cambios técnicos realizados durante el Sprint 3, desde la configuración inicial de los servicios hasta la integración y publicación de las versiones correspondientes.
+
+Los commits de integración y Merge Pull Requests no deben interpretarse como aportes individuales equivalentes a los commits originales de desarrollo. La autoría puede consultarse directamente en GitHub.
+
+#### Integración entre backend y Web Application
+
+Una de las actividades principales del Sprint 3 fue la sustitución de la Fake API por conexiones HTTP hacia los servicios implementados en Spring Boot.
+
+Para ello, se modificaron componentes de infraestructura del frontend, manteniendo la lógica de presentación y delegando las operaciones del negocio a los servicios backend.
+
+La integración comprendió los siguientes procesos:
+
+- Registro e inicio de sesión mediante servicios de autenticación y autorización.
+- Consulta y administración de información empresarial.
+- Registro, búsqueda y consulta de disponibilidad de maquinaria.
+- Creación y seguimiento de solicitudes de alquiler.
+- Gestión de operaciones de entrega y devolución.
+- Registro y consulta de incidencias y mantenimientos.
+- Consulta de planes y gestión de suscripciones.
+
+Asimismo, se incorporaron ajustes en la gestión de errores y estados de operación para proporcionar respuestas coherentes ante situaciones como restricciones de disponibilidad, solicitudes inválidas y conflictos de negocio.
+
+#### Mejoras de arquitectura y validación
+
+Además de la implementación funcional, el equipo realizó actividades orientadas a fortalecer la separación de responsabilidades entre los Bounded Contexts.
+
+Entre las mejoras registradas se encuentran la publicación de contratos de consulta entre IAM y Profiles, la separación de operaciones de Inventory y Rentals mediante ACL y la incorporación de verificaciones arquitectónicas para identificar dependencias no permitidas.
+
+También se añadieron pruebas y controles de regresión relacionados con rutas REST, autenticación, persistencia y transacciones. La existencia de estos cambios se encuentra documentada en los commits de GitHub; los resultados de ejecución deben respaldarse mediante registros o capturas reales de las pruebas.
+
+Estas actividades permitieron mejorar la trazabilidad técnica sin modificar el propósito funcional de los servicios existentes.
+
+#### GitFlow y versiones publicadas
+
+Como resultado del proceso de integración, se prepararon las versiones del backend y de la Web Application mediante sus respectivas ramas release.
+
+| Repository | Release | Branch | Commit Id | Fecha |
+|---|---|---|---|---|
+| maquigest-platform | v1.0.0 | main | 601a991 | 12/11/2026 |
+| maquigest-webapp | v2.0.0 | main | f341489 | 12/11/2026 |
+
+Estas referencias permiten identificar las versiones preparadas para su publicación. La configuración del despliegue y las evidencias de funcionamiento de los servicios en la nube se desarrollan en la sección 5.2.3.7. Software Deployment.
+
+#### Resultados del desarrollo
+
+A partir de los cambios registrados en los repositorios, se evidencia la implementación de los servicios backend principales de MaquiGest, su integración con la aplicación Angular y la adopción de mecanismos de control de versiones para organizar el trabajo del equipo.
+
+El desarrollo comprendió los seis Bounded Contexts de la plataforma, la exposición de recursos REST, la persistencia con MySQL, la integración de autenticación JWT y la documentación OpenAPI.
+
+Además, los commits muestran actividades de refactorización, validación y preparación de releases que contribuyeron a la consolidación técnica de la solución.
+
+En conclusión, las evidencias de desarrollo del Sprint 3 permiten relacionar las funcionalidades implementadas con cambios concretos de código fuente, manteniendo trazabilidad mediante ramas, commits y versiones del proyecto.
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3 se implementaron los principales procesos de MaquiGest sobre el nuevo RESTful Web Service. La evidencia de ejecución debe demostrar la comunicación entre la Web Application, el backend Spring Boot y la base de datos MySQL.
+
+A continuación, se describen los escenarios que forman parte de la revisión del Sprint 3.
+
+1. **Landing Page y Acceso a la Plataforma:** Desde el sitio público de MaquiGest, los visitantes pueden consultar la propuesta de valor y hacer clic en el botón *"Ir a la aplicación"* para redirigirse al portal de autenticación.
+
+![Landing Page MaquiGest](assets/md-images-chapter5/execution1.png)
+
+2. **Registro e inicio de sesión:** un usuario puede registrar una cuenta empresarial, iniciar sesión y recibir un token JWT para acceder a los recursos protegidos.
+   ![Registro](assets/md-images-chapter5/singIn.png)
+
+3. **Gestión de perfiles empresariales:** el usuario autenticado puede consultar y actualizar la información asociada con su empresa.
+   ![Gestión de perfiles empresariales](assets/md-images-chapter5/profile-rental.png)
+   ![Gestión de perfiles empresariales](assets/md-images-chapter5/editProfile-rental.png)
+
+4. **Inventario de maquinaria:** una empresa de alquiler puede registrar, consultar y actualizar maquinaria, así como revisar su estado operativo y disponibilidad.
+   ![Inventario de Maquinaria](assets/md-images-chapter5/equipmentDetails-construction.png)
+
+5. **Solicitud y reprogramación de alquiler:** una empresa constructora puede crear una solicitud de alquiler y modificar el periodo mientras permanezca en estado pendiente.
+   ![Solicitud de alquiler](assets/md-images-chapter5/equipment-rental.png)
+
+6. **Aprobación, entrega y devolución:** una empresa de alquiler puede aprobar o rechazar una solicitud, registrar la entrega de la maquinaria y completar el alquiler mediante su devolución.
+   ![Aprobacion de Solicitud](assets/md-images-chapter5/rentalRequest-rental.png)
+
+7**Historial de maquinaria:** el sistema presenta una línea de tiempo que reúne alquileres, incidencias, mantenimientos y actividades registradas para una maquinaria.
+![Historial de Maquinaria](assets/md-images-chapter5/rentals-rental.png)
+
+8. **Planes y suscripciones:** una empresa de alquiler puede consultar los planes, registrar una suscripción y cancelar su plan actual.
+   ![Planes y suscripciones](assets/md-images-chapter5/subscription-rental.png)
+   ![Planes y suscripciones](assets/md-images-chapter5/cancelSubscription-rental.png)
+
+---
+
+**Execution Evidence Video for Sprint 3 Review:** [Ver video de Execution Evidence Sprint 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCQPSedz_yQTYMZGNFGaxZzAceAU1lmkCiv5WLOBju6EDY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oHWgfw)
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo CleanCode documentó los Web Services REST de MaquiGest Platform, desarrollados con Java 27 y Spring Boot 4.1.2, utilizando Springdoc OpenAPI y Swagger UI. Esta documentación permite consultar métodos HTTP, rutas, parámetros, contratos de solicitud y respuesta, y mecanismos de autenticación.
+
+Los servicios se organizan según los seis Bounded Contexts del backend: IAM, Profiles, Inventory, Rentals, Maintenance y Subscriptions, manteniendo la separación de responsabilidades definida por Domain-Driven Design (DDD).
+
+#### Repositorio y documentación de los Web Services
+
+**Web Services Repository:** [MaquiGest Platform](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform)
+
+**Swagger UI — Production:** https://site--maquigest-backend--g7m4csgtks6m.code.run/swagger-ui/index.html
+
+**OpenAPI Specification — Production:** https://site--maquigest-backend--g7m4csgtks6m.code.run/v3/api-docs
+
+#### Documentación de los endpoints REST
+
+Los siguientes cuadros presentan los endpoints implementados, clasificados por Bounded Context. Los modelos de solicitud y respuesta completos se encuentran en Swagger UI.
+
+**IAM — Identity and Access Management**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| POST | `/api/v1/authentication/sign-up` | Datos de registro de cuenta | Registrar una cuenta de empresa constructora o de alquiler. |
+| POST | `/api/v1/authentication/sign-in` | Correo electrónico y contraseña | Autenticar una cuenta y emitir un JWT. |
+| GET | `/api/v1/authentication/me` | Token del usuario autenticado | Consultar la identidad del usuario autenticado. |
+
+**Profiles — Company Profiles**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| GET | `/api/v1/profiles` | Solicitud de consulta | Consultar perfiles empresariales. |
+| GET | `/api/v1/profiles/{id}` | Identificador del perfil | Consultar un perfil específico. |
+| POST | `/api/v1/profiles` | Datos del perfil empresarial | Registrar un perfil empresarial. |
+| PUT | `/api/v1/profiles/{id}` | Identificador y datos de actualización | Actualizar un perfil empresarial. |
+
+**Inventory — Equipment Management**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| GET | `/api/v1/equipment-categories` | Sin parámetros | Consultar categorías de maquinaria. |
+| GET | `/api/v1/equipment` | Parámetros de consulta, cuando corresponda | Consultar equipos registrados. |
+| GET | `/api/v1/equipment/{id}` | Identificador del equipo | Consultar el detalle de un equipo. |
+| POST | `/api/v1/equipment` | Datos del equipo | Registrar maquinaria. |
+| PATCH | `/api/v1/equipment/{id}` | Identificador y datos de actualización | Actualizar información de maquinaria. |
+| DELETE | `/api/v1/equipment/{id}` | Identificador del equipo | Eliminar un equipo según reglas de negocio. |
+| GET | `/api/v1/equipment/{id}/availability` | Identificador y periodo de consulta | Consultar disponibilidad de un equipo. |
+| POST | `/api/v1/equipment/{id}/availability-blocks` | Identificador y periodo de bloqueo | Registrar bloqueo de disponibilidad. |
+| PATCH | `/api/v1/equipment/{id}/operational-status` | Identificador y nuevo estado | Actualizar el estado operativo. |
+
+**Rentals — Rental Management**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| GET | `/api/v1/rental-requests` | Consulta de solicitudes | Consultar solicitudes de alquiler. |
+| GET | `/api/v1/rental-requests/{id}` | Identificador de solicitud | Consultar el detalle de una solicitud. |
+| POST | `/api/v1/rental-requests` | Datos de la solicitud y periodo | Registrar una solicitud de alquiler. |
+| PATCH | `/api/v1/rental-requests/{id}/period` | Identificador y periodo | Modificar el periodo solicitado. |
+| PUT | `/api/v1/rental-requests/{id}` | Identificador y datos de actualización | Actualizar o procesar una solicitud. |
+| GET | `/api/v1/rentals` | Consulta de alquileres | Consultar alquileres visibles al usuario. |
+| GET | `/api/v1/rentals/{id}` | Identificador de alquiler | Consultar un alquiler específico. |
+| POST | `/api/v1/rentals` | Datos del alquiler | Registrar un alquiler mediante la operación implementada. |
+| PUT | `/api/v1/rentals/{id}` | Identificador y datos de actualización | Actualizar un alquiler mediante la operación implementada. |
+| POST | `/api/v1/deliveries` | Datos de entrega | Registrar la entrega de maquinaria. |
+| GET | `/api/v1/deliveries` | Consulta de entregas | Consultar entregas registradas. |
+| POST | `/api/v1/equipment-returns` | Datos de devolución | Registrar devolución de maquinaria. |
+| GET | `/api/v1/equipment-returns` | Consulta de devoluciones | Consultar devoluciones registradas. |
+
+**Maintenance — Maintenance and Incidents**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| GET | `/api/v1/incidents` | Consulta de incidencias | Consultar incidencias. |
+| GET | `/api/v1/incidents/{id}` | Identificador de incidencia | Consultar una incidencia. |
+| POST | `/api/v1/incidents` | Equipo y datos de incidencia | Registrar una incidencia. |
+| PATCH | `/api/v1/incidents/{id}` | Identificador y datos de actualización | Actualizar una incidencia. |
+| POST | `/api/v1/incidents/equipment/{equipmentId}/reactivate` | Identificador del equipo | Solicitar reactivación de maquinaria. |
+| GET | `/api/v1/maintenances` | Consulta de mantenimientos | Consultar mantenimientos. |
+| GET | `/api/v1/maintenances/{id}` | Identificador del mantenimiento | Consultar un mantenimiento específico. |
+| POST | `/api/v1/maintenances` | Datos del mantenimiento | Registrar o programar un mantenimiento. |
+| PATCH | `/api/v1/maintenances/{id}` | Identificador y datos de seguimiento | Actualizar el estado y seguimiento del mantenimiento. |
+| GET | `/api/v1/maintenances/{id}/activities` | Identificador del mantenimiento | Consultar actividades del mantenimiento. |
+| GET | `/api/v1/maintenances/equipment/{equipmentId}/history` | Identificador del equipo | Consultar historial de maquinaria. |
+
+**Subscriptions — Subscription Management**
+
+| HTTP Method | Endpoint | Parameters / Request | Descripción |
+|---|---|---|---|
+| GET | `/api/v1/subscription-plans` | Consulta de planes | Consultar planes disponibles. |
+| GET | `/api/v1/user-subscriptions` | Consulta de suscripciones | Consultar suscripciones. |
+| GET | `/api/v1/user-subscriptions/{id}` | Identificador de suscripción | Consultar una suscripción específica. |
+| POST | `/api/v1/user-subscriptions` | Datos de suscripción | Registrar una suscripción. |
+| PUT | `/api/v1/user-subscriptions/{id}` | Identificador y datos de actualización | Actualizar una suscripción. |
+| PATCH | `/api/v1/user-subscriptions/{id}/cancel` | Identificador de suscripción | Cancelar una suscripción. |
+
+#### Autenticación y seguridad de los servicios
+
+Los endpoints protegidos utilizan Spring Security y autenticación basada en JSON Web Tokens (JWT). Las solicitudes autorizadas incluyen el encabezado `Authorization: Bearer <token>`.
+
+La documentación OpenAPI permite identificar los requisitos de autenticación de cada operación.
+
+#### Evidencias de Swagger UI y servicios REST
+
+La documentación interactiva del backend está disponible públicamente desde el despliegue en Northflank.
+
+![Swagger UI de MaquiGest desplegado](assets/images/sprint-3/services/maquigest-swagger-produccion.png)
+
+*Figura 5. Swagger UI de MaquiGest Platform disponible desde el backend desplegado en Northflank.*
+
+Para comprobar la ejecución de un servicio público se utilizó la operación `GET /api/v1/equipment-categories` mediante la funcionalidad Try it out.
+
+![Ejecución de GET desde Swagger UI](assets/images/sprint-3/services/swagger-equipment-categories-request.png)
+
+*Figura 6. Ejecución de GET /api/v1/equipment-categories mediante Try it out en Swagger UI.*
+
+![Respuesta HTTP 200 de categorías](assets/images/sprint-3/services/swagger-equipment-categories-response.png)
+
+*Figura 7. Respuesta HTTP 200 OK y JSON con las categorías Excavators, Loaders, Compactors y Generators.*
+
+También se ejecutó la operación `POST /api/v1/authentication/sign-in` mediante Swagger UI, utilizando una cuenta de prueba registrada para comprobar la autenticación en producción.
+
+![Ejecución de POST sign-in desde Swagger UI](assets/images/sprint-3/services/swagger-signin-request.png)
+
+*Figura 8. Formulario de solicitud POST /api/v1/authentication/sign-in en Swagger UI.*
+
+![Respuesta HTTP 200 de autenticación](assets/images/sprint-3/services/swagger-signin-response.png)
+
+*Figura 9. Respuesta HTTP 200 OK de POST /api/v1/authentication/sign-in en Northflank. Se conserva la captura completa, ocultando únicamente la contraseña y el token JWT.*
+
+Las Figuras 6 y 7 evidencian el funcionamiento del servicio público de categorías. Las Figuras 8 y 9 muestran la solicitud de autenticación y la respuesta exitosa del servicio de inicio de sesión.
+
+#### Evidencia de desarrollo de la documentación
+
+La configuración y actualización de OpenAPI se respaldan mediante los siguientes commits del repositorio `maquigest-platform`:
+
+| Repository | Commit Id | Commit Message | Descripción |
+|---|---|---|---|
+| maquigest-platform | [d68047a](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/d68047a) | `feat(shared): configure OpenAPI and virtual threads.` | Configuración de OpenAPI en la infraestructura compartida. |
+| maquigest-platform | [986e956](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/986e956) | `test(ddd): close final architecture and API regression` | Verificaciones de arquitectura y regresión de la API. |
+| maquigest-platform | [2ce6ff9](https://github.com/upc-pre-202620-1asi0729-7750-cleancode/maquigest-platform/commit/2ce6ff9) | `fix(openapi): use relative server URL for Swagger UI` | Actualización de la configuración de OpenAPI en producción. |
+
+#### Resultados de la documentación de servicios
+
+Durante el Sprint 3 se documentaron los servicios REST de MaquiGest mediante Springdoc OpenAPI y Swagger UI, organizados por los seis Bounded Contexts del backend.
+
+Las evidencias presentadas muestran la interfaz de documentación y dos operaciones ejecutadas contra el entorno desplegado en Northflank: `GET /api/v1/equipment-categories` y `POST /api/v1/authentication/sign-in`, ambas con respuesta HTTP `200 OK`.
+
+Los commits vinculados permiten rastrear las configuraciones de OpenAPI realizadas en el repositorio.
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3, el equipo CleanCode realizó el despliegue de los componentes de MaquiGest en servicios de alojamiento en la nube. El backend desarrollado con Spring Boot y la base de datos MySQL se alojaron en Northflank; la Web Application desarrollada con Angular se publicó en Vercel; y la Landing Page se publicó en Netlify.
+
+El despliegue del backend se realizó desde la rama `main` del repositorio `maquigest-platform`. En el panel de Northflank se verificó que la versión correspondiente al commit `2ce6ff9` se encontraba en estado **Running**, con una instancia operativa.
+
+**Backend — Production:** https://site--maquigest-backend--g7m4csgtks6m.code.run
+
+![Despliegue del backend en Northflank](assets/images/sprint-3/deployment/maquigest-backend-northflank.png)
+
+*Figura 10. Despliegue del backend MaquiGest Platform en Northflank, desde la rama main, con el servicio en estado Running.*
+
+La base de datos de la plataforma se desplegó mediante el addon `maquigest-mysql` de Northflank, que utiliza MySQL 8.0.46. En el panel de administración se observó el estado **Running** con **1/1 instancias**.
+
+![Addon MySQL de MaquiGest en Northflank](assets/images/sprint-3/deployment/maquigest-mysql-northflank.png)
+
+*Figura 11. Addon maquigest-mysql desplegado en Northflank con una instancia en estado Running.*
+
+Adicionalmente, se verificó la conexión a la base de datos desplegada mediante MySQL Workbench. La consulta `SHOW TABLES` sobre el esquema `maquigest_platform` devolvió **17 tablas**, confirmando que el esquema se encontraba accesible desde el entorno de administración.
+
+![Consulta de tablas de MaquiGest en MySQL Workbench](assets/images/sprint-3/deployment/maquigest-mysql-workbench.png)
+
+*Figura 12. Consulta del esquema maquigest_platform mediante MySQL Workbench, con 17 tablas identificadas.*
+
+La Web Application de MaquiGest se publicó en Vercel. El panel de despliegue mostró el estado **Ready** en el entorno **Production**, con la rama `main` como origen de la versión publicada y el dominio público asociado a la aplicación.
+
+**Web Application — Production:** https://maquigest-webapp-cleancode.vercel.app/
+
+![Despliegue de la Web Application en Vercel](assets/images/sprint-3/deployment/maquigest-webapp-vercel.png)
+
+*Figura 13. Despliegue de MaquiGest WebApp en Vercel con estado Ready y entorno Production.*
+
+Por último, la Landing Page de MaquiGest se publicó en Netlify. El panel del proyecto `maquigest-cleancode` mostró el dominio público, la procedencia del despliegue desde GitHub y una vista previa del sitio.
+
+**Landing Page — Production:** https://maquigest-cleancode.netlify.app/
+
+![Publicación de la Landing Page en Netlify](assets/images/sprint-3/deployment/maquigest-landing-netlify.png)
+
+*Figura 14. Landing Page de MaquiGest publicada en Netlify y asociada al repositorio de GitHub.*
+
+Las evidencias presentadas muestran los componentes de MaquiGest desplegados en sus respectivas plataformas y accesibles mediante los entornos de producción configurados para el proyecto.
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el trabajo de implementación se concentró en el desarrollo y despliegue del RESTful Web Service de MaquiGest, así como en la adaptación de la Web Application para consumir los servicios proporcionados por el backend. Esta iteración permitió integrar la lógica de negocio y la persistencia de datos con los procesos de la aplicación frontend.
+
+Git y GitHub fueron utilizados como herramientas principales para administrar el código fuente, coordinar el desarrollo de las funcionalidades y registrar las contribuciones realizadas durante la iteración. El trabajo se organizó mediante ramas feature destinadas a funcionalidades específicas, las cuales fueron integradas en la rama `develop` para consolidar los avances de ambos repositorios.
+
+En el repositorio `maquigest-platform` se utilizaron ramas independientes para desarrollar e integrar los componentes de configuración, Shared, IAM, Inventory, Subscriptions, Rentals, Profiles y Maintenance. Estas actividades comprendieron la exposición de servicios REST, la gestión de perfiles empresariales, la administración de maquinaria y su disponibilidad, las solicitudes y operaciones de alquiler, el mantenimiento y las incidencias, las suscripciones, la autenticación y autorización, la persistencia mediante JPA y MySQL, la validación de solicitudes, la gestión de errores HTTP y la documentación mediante OpenAPI.
+
+Por otro lado, en el repositorio `maquigest-webapp` se realizaron modificaciones para adaptar la aplicación frontend a los servicios del backend. Entre las actividades desarrolladas se encontraron el retiro de la Fake API, la implementación del historial de maquinaria y la adaptación de los procesos de Inventory, Rentals y Maintenance para alinearlos con los contratos y operaciones expuestos por el backend.
+
+Las contribuciones realizadas por los integrantes pueden observarse mediante las herramientas de análisis proporcionadas por GitHub.
+
+##### GitHub Contributors
+
+GitHub Contributors permite visualizar la participación de los integrantes del equipo en el repositorio `maquigest-platform`.
+
+La distribución de commits registrada para el Sprint 3 fue la siguiente:
+
+| **Team Member**                | **GitHub Username** | **Commits** |
+| ------------------------------ | ------------------- | ----------: |
+| James Caleb Delgado Perez      | `JAmsy06`           | 30          |
+| Bruno Rodrigo Montalvo Vasquez | `TartaroZ`          | 29          |
+| Miroslav Oscar Manosalva Tovar | `Miroa123`          | 30          |
+| Carlos Augusto Paredes Chávez  | `CarlossUPC`        | 24          |
+| **Total**                      |                     | **113**     |
+
+Las estadísticas permiten observar la participación de los cuatro integrantes en el desarrollo del backend de MaquiGest. Las contribuciones estuvieron relacionadas con la implementación de los módulos principales, la integración de los servicios REST y los componentes técnicos necesarios para el funcionamiento de la plataforma.
+
+<p align="center">
+  <img src="./assets/md-images-chapter5/teamcolabo6.png"
+       alt="MaquiGest Sprint 2 Collaboration Evidence - GitHub Contributors"
+       width="90%">
+</p>
+
+##### Commit Activity
+
+<p align="center">
+  <img src="./assets/md-images-chapter5/teamcolabo7.png"
+       alt="MaquiGest Sprint 2 Collaboration Evidence - Commit Activity"
+       width="90%">
+</p>
+
+La sección de estadísticas de GitHub permite observar también la actividad general de commits realizada sobre el repositorio `maquigest-platform` durante el Sprint 3.
+
+La actividad registrada corresponde principalmente al desarrollo de la infraestructura backend, la implementación de los módulos de negocio, la configuración de la persistencia, la seguridad y la exposición de los servicios REST.
+
+En conjunto, las contribuciones realizadas durante esta iteración permitieron desarrollar e integrar los principales servicios backend de MaquiGest, incluyendo la gestión de perfiles empresariales, maquinaria, disponibilidad, alquileres, mantenimiento, incidencias y suscripciones. Asimismo, se implementaron componentes transversales para la autenticación y autorización, la persistencia mediante JPA y MySQL, la validación de solicitudes, la gestión de errores HTTP y la documentación de la API mediante OpenAPI.
+
+Por otro lado, los cambios realizados en `maquigest-webapp` permitieron adaptar la aplicación frontend para consumir los servicios implementados, retirando la Fake API y alineando los procesos de Inventory, Rentals y Maintenance con los contratos del backend.
+
+La actividad registrada en GitHub proporciona trazabilidad de las contribuciones realizadas durante el Sprint 3 y evidencia el trabajo colaborativo del equipo en la implementación, integración y despliegue del backend de MaquiGest.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+En esta sección se presenta el diseño de entrevistaas de validación aplicado para la plataforma MaquiGest, con el objetivo de recopilar la percepción de nuestros usuarios anteriormente entrevistados respecto a la porpuesta de valor, la claridad de la información, la utilidad de las funcionalidades implementadas y la experiencia general de interacción con el producto digital. Estas entrevistados fueron planteadas para evaluar tanto el Landing Page como la Web Application, priorizando la validación de los flujos principales de navegación, monitoreo, alertas y visualización de información relevante para los segmentos objetivos.
+
+
+**Objetivos de las entrevistas:** El objetivo principal de las entrevistas de validación fue conocer la opinión de los participantes sobre la experiencia de uso de MaquiGest, especialmente en relacion con:
+
+
+* la comprensión de la propuesta de la plataforma.
+* la facilidad de navegación entre las secciones del sistema
+* la claridad de la información sobre monitoreo de agua y gas
+* la comprensión del estado de los dispositivos y sensores
+* el grado de satisfación general con la plataforma
+
+**Estructura de la entrevista**
+
+La entrevista fue diseñada en dos bloques: datos generales del entrevistado y preguntas de validación del producto.
+
+**A. Datos generales**
+
+Este bloque tuvo como finalidad identificar información básica del participante y contextualizar su perfil dentro de los segmentos objetivo.
+Las preguntas utilizadas fueron las siguientes:
+* ¿Cuál es su nombre?
+* ¿Cuántos años tiene?
+* ¿En qué distrito trabaja o reside?
+* ¿Cuál es su ocupación actual?
+
+**B. Preguntas de validación**
+
+Este bloque estuvo orientado a recoger apreciaciones cualitativas sobre la interfaz, la navegación, la utilidad de las funcionalidades y la satisfacción general con la solución.
+Las preguntas planteadas fueron las siguientes:
+
+* ¿Qué opinión tiene sobre el diseño visual y la apariencia general de nuestra plataforma?
+* ¿Le resultó fácil y rápido navegar entre las diferentes secciones del sistema?
+* ¿Considera útil contar con el selector de idioma (EN/ES)?
+* ¿La información mostrada sobre los equipos, la disponibilidad o los planes de suscripción se entienden con claridad?
+* ¿Le pareció sencillo buscar maquinaria y revisar el estado de sus solicitudes o contratos?
+* ¿Utilizaría nuestra plataforma de manera regular en su trabajo u operaciones diarias?
+
+### 5.3.2. Registro de entrevistas
+
+### Entrevista 1 — Judith Dávila
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Judith Dávila |
+| Edad | 44 años |
+| Distrito | Vitarte |
+| Segmento objetivo | Primer segmento objetivo: Pequeñas y medianas empresas de alquiler de maquinaria |
+| Fecha de entrevista | 13 noviembre 2026 |
+| Duración | 01:46 |
+| Timing en el video | 00:00 - 01:46 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap5entrevista1.png" width="180">
+</p>
+
+**Resumen:**  
+Judith Dávila representa a una pequeña empresa dedicada al alquiler de tractores. Comentó que el diseño visual de la plataforma se ve limpio y claro. Sin embargo, indicó que no le resultó fácil navegar entre las secciones ni comprender la información de los equipos o planes de suscripción, debido a que no está muy familiarizada con el uso de computadoras. Valoró positivamente el selector de idioma de inglés a español porque le facilitaría el manejo. Señaló que la plataforma podría ser útil para quienes saben usar computadoras, pero en su caso particular no la utilizaría de manera regular en sus operaciones diarias por su poca familiaridad con el manejo de estos equipos.### Entrevista 2 — Carlos Rodríguez
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Carlos Rodríguez |
+| Edad | 51 años |
+| Distrito | San Juan de Miraflores |
+| Segmento objetivo | Primer segmento objetivo: Pequeñas y medianas empresas de alquiler de maquinaria |
+| Fecha de entrevista | 13 noviembre 2026 |
+| Duración | 02:17 |
+| Timing en el video | 01:47 - 04:04 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap2entrevista2.png" width="180">
+</p>
+
+**Resumen:**  
+Carlos Rodríguez se desempeña como técnico mecánico y se dedica al alquiler de camiones de carga. Consideró que el diseño visual de la plataforma es muy práctico y asequible. Indicó que la navegación entre las secciones es fluida y está bien explicada, lo que evita complicaciones. Respecto al selector de idioma de inglés a español, lo calificó de muy práctico para ingresar de inmediato sin necesidad de adivinar o traducir. Aunque al principio mencionó que la información de los planes y equipos se le complica un poco por estar ingresando recién, confirmó que buscar maquinaria y revisar el estado de solicitudes es sencillo gracias a las indicaciones de la guía, y aseguró que sí utilizaría la plataforma de manera regular en su trabajo.
+
+### Entrevista 3 — Carmen Losada Paredes
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Carmen Losada Paredes |
+| Edad | 51 años |
+| Distrito | San Juan de Lurigancho |
+| Segmento objetivo | Primer segmento objetivo: Pequeñas y medianas empresas de alquiler de maquinaria |
+| Fecha de entrevista | 18 setiembre 2026 |
+| Duración | 01:56 |
+| Timing en el video | 04:05 - 06:01 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap2entrevista3.png" width="180">
+</p>
+
+**Resumen:**  
+Carmen Losada Paredes administra una pequeña empresa que presta servicios de alquiler de camiones concreteros (mixers). Opinó que el diseño visual y la apariencia de la plataforma son buenos y le otorgan la facilidad de tener un control adecuado sobre sus maquinarias. Afirmó que la navegación entre las secciones es fácil y que todo está a la mano para su uso. Consideró muy útil el selector de idioma de inglés a español pensando en la atención a posibles clientes extranjeros. Destacó que la información sobre equipos y disponibilidad se entiende con claridad y permite identificar con precisión qué máquinas están operativas y disponibles. Concluyó afirmando que utilizaría la plataforma de manera regular en sus operaciones diarias para lograr un mejor control de sus unidades alquiladas y paradas.
+
+### Entrevista 4 — Saul Vásquez Simeon
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Saul Vásquez Simeon |
+| Edad | 44 años |
+| Distrito | San Juan de Lurigancho |
+| Segmento objetivo | Segundo segmento objetivo: Pequeñas empresas constructoras |
+| Fecha de entrevista | 13 noviembre 2026 |
+| Duración | 02:03 |
+| Timing en el video | 06:02 - 08:05 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap5entrevista4.png" width="180">
+</p>
+
+**Resumen:**  
+Saul Vásquez Simeón se dedica al alquiler de miniconstructora de maquinarias. Señaló que el diseño visual y la apariencia de la plataforma son claros. Afirmó que la navegación entre las secciones del sistema resulta muy clara y sencilla. Respecto al selector de idioma de inglés a español, indicó que ayuda a notar las cosas de forma más clara. Explicó que la información mostrada sobre los equipos se entiende con total claridad, ya que detalla la ubicación, la clase de máquina y la tarifa diaria. Finalmente, confirmó que buscar maquinaria y revisar el estado de solicitudes o contratos es sencillo con el aplicativo, por lo que sí utilizaría la plataforma de manera regular en su trabajo.
+
+### Entrevista 5 — Sonia Gutiérrez
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Sonia Gutiérrez |
+| Edad | 41 años |
+| Distrito | San Juan de Miraflores |
+| Segmento objetivo | Segundo segmento objetivo: Pequeñas empresas constructoras |
+| Fecha de entrevista | 13 noviembre 2026 |
+| Duración | 01:47 |
+| Timing en el video | 08:06 - 09:53 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap2entrevista5.png" width="180">
+</p>
+
+**Resumen:**  
+Sonia Gutiérrez trabaja en una empresa inmobiliaria. Opinó que el diseño visual de la plataforma es de mucha ayuda. Indicó que la navegación entre las secciones es ágil porque le ayuda a buscar con mayor rapidez la maquinaria que necesita. Valoró muy positivamente el selector de idioma de inglés a español al señalar que resulta de gran utilidad para quienes no dominan el inglés. Destacó que la información sobre disponibilidad y detalles técnicos de los equipos (como las toneladas) se comprende claramente, al igual que la revisión de fechas solicitadas y la aprobación de alquileres. Concluyó afirmando que utilizaría la plataforma de manera regular en sus operaciones diarias por ser una herramienta organizada y de gran apoyo.
+
+### Entrevista 6 — Ana Rivera Quispe
+
+| Campo | Detalle |
+|-------|---------|
+| Nombres y apellidos | Ana Rivera Quispe |
+| Edad | 36 años |
+| Distrito | Los Olivos |
+| Segmento objetivo | Segundo segmento objetivo: Pequeñas empresas constructoras |
+| Fecha de entrevista | 13 noviembre 2026 |
+| Duración | 01:34 |
+| Timing en el video | 09:54 - 11:28 |
+| URL del video | [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAno3ha_fARS7yrsw-5yJFTAXmXk9Z9j33zZLcAexur_zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gRGyqh)|
+
+<p align="center">
+  <img src="assets/md-images-chapter2/Cap2entrevista6.png" width="180">
+</p>
+
+**Resumen:**  
+Ana Rivera Quispe se dedica a la construcción de pequeños edificios. Señaló que la plataforma presenta un diseño limpio y ordenado. Sin embargo, al momento de evaluar la facilidad de navegación y la búsqueda de maquinaria o revisión de contratos, indicó que le resultaría complicado. Consideró útil contar con el selector de idioma debido a que no domina el inglés. Respecto a la información de los equipos y planes, reconoció que se entiende con claridad; sin embargo, al ser consultada sobre si utilizaría la plataforma de manera regular, comentó que aunque lo intentaría, le parecería bastante difícil en su día a día.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** 7750  
+**AUDITOR:** CleanCode  
+**CLIENTE(S):** Usuarios participantes de la validación
+
+**SITE o APP A EVALUAR:**  
+MaquiGest: [https://maquigest-webapp-cleancode.vercel.app/](https://maquigest-webapp-cleancode.vercel.app/)
+
+---
+
+## TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la experiencia de usuario de las siguientes tareas principales:
+
+* Explorar el Landing Page e identificar la propuesta de valor del servicio.
+* Navegar entre las principales secciones (dashboard, catálogo, perfil y solicitudes).
+* Consultar el detalle y disponibilidad de equipos y maquinaria.
+* Gestionar el registro, solicitud y cancelación de alquileres.
+* Revisar el historial y estado de las órdenes o entregas.
+
+## ESCALA DE SEVERIDAD
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|---------|---------|
+| 1 | Problema superficial: Inconsistencia estética menor o detalle visual de muy baja frecuencia que no afecta la interacción (se puede pasar por alto o priorizar baja corrección). |
+| 2 | Problema menor: Ocurre ocasionalmente o genera una pequeña fricción o duda momentánea en el usuario. |
+| 3 | Problema mayor: Ocurre frecuentemente o interrumpe de forma moderada el flujo principal de la plataforma. |
+| 4 | Problema muy grave: Bloquea por completo al usuario impidiendo finalizar una tarea crítica. |
+
+---
+
+## TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística / Principio violado |
+|---|---|---:|---|
+| 1 | Algunos botones de acción rápida en el dashboard muestran una jerarquía visual poco diferenciada. | 2 | Usability: Visibility of System Status |
+| 2 | Ciertos campos en los formularios de registro de equipos carecen de validación en tiempo real más amigable. | 2 | Usability: Error Prevention |
+| 3 | La distinción entre los estados de alquiler activo y cancelado en el listado general podría ser más intuitiva. | 3 | Usability: Recognition Rather Than Recall |
+| 4 | Algunos iconos en la barra de navegación lateral dependen demasiado de la interpretación visual sin texto secundario en resoluciones compactas. | 2 | Inclusive Design: Provide Comparable Experience |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS
+
+### Problema #1: Algunos botones de acción rápida en el dashboard muestran una jerarquía visual poco diferenciada
+**Severidad:** 2
+
+**Heurística violada:**  
+Usabilidad – Visibilidad del estado del sistema
+
+**Problema:**  
+Durante la navegación general por el panel principal, se observó que las acciones secundarias y principales comparten pesos visuales muy similares, lo que puede generar una pequeña duda inicial en usuarios nuevos, aunque no impide completar la tarea.
+
+**Recomendación:**  
+Ajustar los contrastes y el tamaño de los componentes de llamada a la acción (CTA) principales para guiar de manera más natural la vista del usuario.
+
+**Captura:**
+
+![Evidencia de la heurística violada](assets/md-images-chapter5/dashboard-rental.png)
+
+---
+
+### Problema #2: Ciertos campos en los formularios de registro de equipos carecen de validación en tiempo real más amigable
+
+**Severidad:** 2
+
+**Heurística violada:**  
+Usabilidad – Prevención de errores
+
+**Problema:**  
+Al rellenar los formularios para dar de alta o solicitar maquinaria, los mensajes de advertencia o campos obligatorios no siempre avisan de forma inmediata al usuario antes de enviar el formulario completo.
+
+**Recomendación:**  
+Implementar validaciones dinámicas que marquen en línea los campos correctos o pendientes para evitar fricciones innecesarias.
+
+**Captura:**
+
+![Evidencia de la heurística violada](assets/md-images-chapter5/equipment-rental.png)
+
+---
+
+### Problema #3: La distinción entre los estados de alquiler activo y cancelado en el listado general podría ser más intuitiva
+
+**Severidad:** 3
+
+**Heurística violada:**  
+Usabilidad – Reconocimiento antes que memorización
+
+**Problema:**  
+En la sección de gestión e historial de alquileres, los colores de estado entre un servicio activo y uno cancelado son sutiles, lo que obliga al usuario a leer detalladamente cada etiqueta en lugar de reconocer el estado de un vistazo.
+
+**Recomendación:**  
+Utilizar códigos de color más contrastados (por ejemplo, verde para activo, rojo o gris tenue para cancelado) acompañados de iconos normalizados.
+
+**Captura:**
+
+![Evidencia de la heurística violada](assets/md-images-chapter5/rentalRequest-rental.png)
+
+---
+
+### Problema #4: Algunos iconos en la barra de navegación lateral dependen demasiado de la interpretación visual sin texto secundario
+
+**Severidad:** 2
+
+**Heurística violada:**  
+Diseño Inclusivo – Proporcionar una experiencia equivalente para todos los usuarios
+
+**Problema:**  
+En vistas reducidas o ciertos módulos, la barra lateral compacta muestra únicamente iconos que, al carecer de etiquetas permanentes o tooltips rápidos, pueden restar agilidad a usuarios menos familiarizados con los símbolos de la plataforma.
+
+**Recomendación:**  
+Asegurar tooltips flotantes o descripciones emergentes claras al pasar el cursor sobre los iconos de navegación.
+
+**Captura:**
+
+![Evidencia de la heurística violada](assets/md-images-chapter5/subscription-rental.png)
+
+---
+
+## 5.4. Video About-the-Product
+
+El video About-the-Product presenta de manera clara y dinámica la propuesta de valor de la solución, explicando el problema identificado, el segmento de usuarios objetivo y las principales funcionalidades que ofrece la plataforma. Asimismo, se muestra el recorrido de los usuarios a través de las interfaces desarrolladas, destacando cómo la aplicación contribuye a mejorar su experiencia y satisfacer sus necesidades. El contenido incluye una breve introducción al modelo de negocio, una demostración de las características más relevantes del producto y testimonios obtenidos durante el proceso de validación con usuarios potenciales.
+
+**Video About-the-Product:** [Ver video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDohingEBxBS6oqtcHxlPTFAckGryU7V0M-zSQXtJfEpIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ak4a0R)
+
 # Conclusiones
 
 ## Conclusiones y recomendaciones
@@ -3783,6 +4638,9 @@ En el aspecto arquitectónico, se corrigieron los diagramas C4, los diagramas de
 
 La gestión del equipo se apoyó en Git, GitHub y una distribución clara de responsabilidades. Como recomendaciones para los siguientes Sprints, se debe mantener la trazabilidad de los commits con el Product Backlog, continuar el desarrollo de la API con DataFlux, y asegurar buenas prácticas en diseño responsivo, accesibilidad, pruebas y despliegue continuo.
 
+# About the team:
+
+[Ver About the team]https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCmLh19XuNOQoqLZwEJIgs_AcQVmPSG1iTi9LkC0aksoJk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yNLh5y
 # Bibliografía
 
 Brandolini, A. (2013). *Introducing EventStorming*. Leanpub.
@@ -3819,6 +4677,7 @@ En este anexo se registran progresivamente los videos correspondientes a las exp
 |---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------------------|
 | **AV1** | **Cantidad:** 1 video<br>**Enlace:** [Ver video AV1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCBXFdo0jrXTqL0vkQUNlrlAWSe4PbJ4LTRVTYfF420B-E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mhMcM3)<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-expo-av1`<br>**Formato:** `.mp4`<br>**Duración:** 13:55 | Video de exposición grupal correspondiente al AV1 de RentBuild. Presenta el avance integral del proyecto hasta el Sprint 1, incluyendo Startup Profile, Solution Profile, segmentos objetivo, Requirements Elicitation & Analysis, Needfinding, User Stories, Product Backlog, Product Design, arquitectura de software, diseño e implementación de la Landing Page y las evidencias correspondientes al Sprint 1. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del AV1. El material permite sustentar los artefactos desarrollados, la participación de los integrantes del equipo y los principales avances alcanzados durante el Sprint 1. |
 | **TB1** | **Cantidad:** 1 video<br>**Enlace:** [Ver video TB1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCBXFdo0jrXTqL0vkQUNlrlAWSe4PbJ4LTRVTYfF420B-E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mhMcM3)<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-expo-tb1`<br>**Formato:** `.mp4`<br>**Duración:** 13:55 | Video de exposición grupal correspondiente al TB1 de RentBuild. Presenta el avance integral del proyecto hasta el Sprint 2, incluyendo la web app. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del TB1. El material permite sustentar los artefactos desarrollados, la participación de los integrantes del equipo y los principales avances alcanzados durante el Sprint 2. |
+| **AV2** | **Cantidad:** 1 video<br>**Enlace:** [Ver video AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCmLh19XuNOQoqLZwEJIgs_AcQVmPSG1iTi9LkC0aksoJk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=yNLh5y)<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-expo-av2`<br>**Formato:** `.mp4`<br>**Duración:** 27:38 | Video de exposicion al AV2 de MaquiGest. Presenta los avances y la síntesis ejecutiva del producto, integrando las revisiones funcionales de las etapas intermedias de desarrollo. | El video se publica en la plataforma indicada por el docente y constituye evidencia de la presentación del AV2 para sustentar el progreso y características clave de la plataforma. |
 
 ## Anexo B. Enlaces del proyecto
 
@@ -3835,15 +4694,19 @@ En este anexo se consolidan los principales recursos digitales utilizados para e
 | **Sprint Backlog 2**          | Tablero de Trello utilizado para organizar y realizar seguimiento de las User Stories, Work-items y Tasks correspondientes al Sprint 1. | [Ver Sprint Backlog 2](https://trello.com/invite/b/6ac862d08565a1f49df535d7/ATTI8c0d4b7ea1228b131197ba4affe8fd8320E5EBEA/sprint-backlog-2-rentbuild) |
 | **Web Applications Mock-ups** | Web Application Mock ups                                                                                                                | [Ver Sprint Backlog 2](https://www.figma.com/design/OIBiedVSqvMmmqYcjx14Ec/Sin-t%C3%ADtulo?node-id=0-1) |
 | **Web Applications WireFlow** | Web Application WireFlow                                                                                                                | [Ver Sprint Backlog 2](https://www.figma.com/board/x7IvCSgobEyo1SbH3PRnqg/Rent-Build-WireFlow) |
-
+Aplicación: https://rentbuild-webapp-gamma.vercel.app
+GitHub frontend: https://github.com/upc-pre-202620-1asi0730-8093-dataflux/rentbuild-webapp
+API de Render (base): https://rentbuild-api.onrender.com/api/v1
 
 ## Anexo C. Videos del proyecto
 
 En este anexo se consolidan los principales recursos audiovisuales utilizados como evidencia de investigación, prototipado y ejecución del proyecto RentBuild durante el AV1.
 
-| Tipo de video             | Características del video                                                                                                                | Sobre el contenido | Enlace                                                                                                                                                                                                                                                                                                                                                                                             |
-|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tipo de video              | Características del video                                                                                                                | Sobre el contenido | Enlace                                                                                                                                                                                                                                                                                                                                                |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Needfinding Interviews** | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-needfinding-sprint-1`<br>**Formato:** `.mp4`          | Consolida las entrevistas realizadas a representantes de los segmentos objetivo de RentBuild. Las entrevistas permitieron identificar necesidades, problemas y oportunidades relacionadas con la gestión, búsqueda y alquiler de maquinaria. | [Ver Needfinding Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQBFiR1QwYfTSL96qzfO9KaTATUN322TsrAuqI6OxMv3ymk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ZBYgEG) |
-| **Prototype Navigation**  | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-prototype-navigation-sprint-1`<br>**Formato:** `.mp4` | Presenta la navegación del prototipo interactivo de la Web Application de RentBuild desarrollado en Figma. El video evidencia los principales recorridos definidos para empresas de alquiler de maquinaria y empresas constructoras, mostrando la relación entre los mock-ups, User Flow Diagrams y las interacciones del prototipo. | [Ver Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAAnsDBhRKVQpR1PWOgAkTtAU7P-QO86FqFMmuM5NzuKJU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dB05rw)                                                |
-| **Execution Evidence 1**  | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-execution-evidence-sprint-1`<br>**Formato:** `.mp4`   | Presenta la navegación por la primera versión implementada y desplegada del Landing Page de RentBuild. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 1. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDOPdOMeAhKRZ-vz-1kQtt7AX2VvaT-R5lQZFxI_11rJtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kexC0i)                                                 |
-| **Execution Evidence 2**  | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-execution-evidence-sprint-2`<br>**Formato:** `.mp4`   | Presenta la navegación por la primera versión implementada y desplegada de la web app de RentBuild. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 2. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDOPdOMeAhKRZ-vz-1kQtt7AX2VvaT-R5lQZFxI_11rJtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kexC0i)                                                 |
+| **Prototype Navigation**   | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-prototype-navigation-sprint-1`<br>**Formato:** `.mp4` | Presenta la navegación del prototipo interactivo de la Web Application de RentBuild desarrollado en Figma. El video evidencia los principales recorridos definidos para empresas de alquiler de maquinaria y empresas constructoras, mostrando la relación entre los mock-ups, User Flow Diagrams y las interacciones del prototipo. | [Ver Prototype Navigation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQAAnsDBhRKVQpR1PWOgAkTtAU7P-QO86FqFMmuM5NzuKJU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=dB05rw)   |
+| **Execution Evidence 1**   | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-execution-evidence-sprint-1`<br>**Formato:** `.mp4`   | Presenta la navegación por la primera versión implementada y desplegada del Landing Page de RentBuild. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 1. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDOPdOMeAhKRZ-vz-1kQtt7AX2VvaT-R5lQZFxI_11rJtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kexC0i)     |
+| **Execution Evidence 2**   | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0730-8093-dataflux-execution-evidence-sprint-2`<br>**Formato:** `.mp4`   | Presenta la navegación por la primera versión implementada y desplegada de la web app de RentBuild. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 2. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDOPdOMeAhKRZ-vz-1kQtt7AX2VvaT-R5lQZFxI_11rJtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=kexC0i)     |
+| **Execution Evidence**     | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-execution-evidence-sprint-3`<br>**Formato:** `.mp4` | Presenta la navegación por la segunda versión implementada y desplegada de la plataforma, esta vez incluyendo el backend. El video demuestra las principales secciones y elementos interactivos desarrollados durante el Sprint 3. | [Ver Execution Evidence](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQCQPSedz_yQTYMZGNFGaxZzAceAU1lmkCiv5WLOBju6EDY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=oHWgfw)     |
+| **About the team**         | **Cantidad:** 1 video<br>**Nomenclatura:** `upc-pre-202620-1asi0729-7750-cleancode-about-the-product-sprint-3`<br>**Formato:** `.mp4` | Orientación promocional, resumiendo el modelo de negocio, las características y beneficios del producto, incluyendo algunas escenas de interacción con el producto y al menos una opinión por каждый segmento objetivo. | [Ver About the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111529_upc_edu_pe/IQDohingEBxBS6oqtcHxlPTFAckGryU7V0M-zSQXtJfEpIQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ak4a0R)         |
